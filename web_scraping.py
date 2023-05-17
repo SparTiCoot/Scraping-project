@@ -65,23 +65,24 @@ def main() -> None:
     for row in table.tbody.find_all('tr'):
         columns = row.find_all('td')
         types = [type['alt'] for type in columns[-1].find_all('img')]
-        if columns[2].small != None:
-            form = columns[2].small.text
-        if columns[0].text != "":
-            number = columns[0].text
-            list_of_pokemon.append(
-                Pokemon(number, form, columns[2].a.text, columns[3].a.text, types))
-        if columns[0].text == "":
-            list_of_pokemon.append(
-                Pokemon(number, form, columns[2].a.text, columns[3].a.text, types))
-        form = ""
+        if 'Inconnu' not in types:
+            if columns[2].small != None:
+                form = columns[2].small.text
+            if columns[0].text != "":
+                number = columns[0].text
+                list_of_pokemon.append(
+                    Pokemon(number, form, columns[2].a.text, columns[3].a.text, types))
+            if columns[0].text == "":
+                list_of_pokemon.append(
+                    Pokemon(number, form, columns[2].a.text, columns[3].a.text, types))
+            form = ""
 
     # for pokemon in list_of_pokemon:
         # print(pokemon)
         # print(pokemon.form)
 
-    # create_csv_with_data(list_of_pokemon)
-    # convert_csv_to_excel('data/pokemons.csv', 'data/pokemons.xlsx')
+    create_csv_with_data(list_of_pokemon)
+    convert_csv_to_excel('data/pokemons.csv', 'data/pokemons.xlsx')
 
 if __name__ == "__main__":
     main()
