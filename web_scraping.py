@@ -4,6 +4,7 @@ import csv
 import os
 from bs4 import BeautifulSoup
 import pandas as pd
+import re
 
 
 NB_POKEMON_MAX = 50
@@ -109,26 +110,39 @@ def main() -> None:
     list_of_pokemon = []
     for row in table.tbody.find_all('tr'):
         columns = row.find_all('td')
-        soup2 = get_page(columns[2].a.text)
-        # print(soup2)
+        types = [type['alt'] for type in columns[-1].find_all('img')]
+        if 'Inconnu' not in types:
+            if columns[2].small != None:
+                form = columns[2].small.text
+            if columns[0].text != "":
+                number = columns[0].text
+                list_of_pokemon.append(
+                    Pokemon(number, form, columns[2].a.text, columns[3].a.text, types))
+            if columns[0].text == "":
+                list_of_pokemon.append(
+                    Pokemon(number, form, columns[2].a.text, columns[3].a.text, types))
+            form = ""
+    
+    for pokemon in list_of_pokemon:
+        infos = []
+        # print(get_page(pokemon.french_name))
+        # soup2 = get_page(columns[2].a.text)
+        soup2 = get_page(pokemon.french_name)
         table2 = soup2.find('table', class_='tableaustandard ficheinfo plante')
         for row2 in table2.tbody.find_all('tr'):
-            # print(row2)
-            column_category = row2.find_all('a')
-            print(column_category.get_text())
-        break
-        # types = [type['alt'] for type in columns[-1].find_all('img')]
-        # if 'Inconnu' not in types:
-        #     if columns[2].small != None:
-        #         form = columns[2].small.text
-        #     if columns[0].text != "":
-        #         number = columns[0].text
-        #         list_of_pokemon.append(
-        #             Pokemon(number, form, columns[2].a.text, columns[3].a.text, types))
-        #     if columns[0].text == "":
-        #         list_of_pokemon.append(
-        #             Pokemon(number, form, columns[2].a.text, columns[3].a.text, types))
-        #     form = ""
+            cols = row2.find_all('td')
+            cols = [x.text.strip() for x in cols]
+            infos.append(cols)
+        infos.pop(22)
+        infos[21][0] = re.sub("1. ", "", infos[21][0])
+        infos[21][0] = re.sub("2.", ",", infos[21][0])
+        infos[21][0] = re.sub("3.", ",", infos[21][0])
+        infos[21][0] = re.sub("4.", ",", infos[21][0])
+        infos[18][0] = infos[18][0].strip('Pokémon ')
+        for i in range(18, 29):
+            for j in infos[i]:
+                print(j)
+        del infos
 
     # for pokemon in list_of_pokemon:
         # print(pokemon)
