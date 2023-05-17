@@ -8,6 +8,7 @@ import pandas as pd
 
 NB_POKEMON_MAX = 50
 
+
 def create_csv_with_data(array_of_object):
     columns = ['number', 'form', 'french_name', 'english_name', 'types']
 
@@ -18,9 +19,11 @@ def create_csv_with_data(array_of_object):
         writer.writeheader()
         for object in array_of_object:
             types_str = ','.join(object.types)
-            writer.writerow({columns[0]: object.number, columns[1]: object.form, columns[2]: object.french_name, columns[3]: object.english_name, columns[4]: types_str})
+            writer.writerow({columns[0]: object.number, columns[1]: object.form, columns[2]
+                            : object.french_name, columns[3]: object.english_name, columns[4]: types_str})
 
     print("Le fichier csv a été créé avec succès.")
+
 
 def convert_csv_to_excel(path_csv_file, path_excel_file):
     data_frame = pd.read_csv(path_csv_file)
@@ -37,6 +40,16 @@ class Pokemon:
         self.french_name = french_name
         self.english_name = english_name
         self.types = types
+        self.category = ""
+        self.size = ""
+        self.weight = ""
+        self.talents = []
+        self.hatching = ""
+        self.ev = ""
+        self.exp = ""
+        self.gender = ""
+        self.color = ""
+        self.capture = ""
 
     def __str__(self) -> str:
         if self.form == "":
@@ -46,6 +59,38 @@ class Pokemon:
 
     def __getattribute__(self, __name: str) -> Any:
         return super().__getattribute__(__name)
+
+    def __addattribute__(self, **attribs):
+        if 'category' in attribs:
+            self.category = attribs['category']
+        if 'size' in attribs:
+            self.size = attribs['size']
+        if 'weight' in attribs:
+            self.weight = attribs['weight']
+        if 'talents' in attribs:
+            self.talents = attribs['talents']
+        if 'hatching' in attribs:
+            self.hatching = attribs['hatching']
+        if 'ev' in attribs:
+            self.ev = attribs['ev']
+        if 'exp' in attribs:
+            self.exp = attribs['exp']
+        if 'gender' in attribs:
+            self.gender = attribs['gender']
+        if 'color' in attribs:
+            self.color = attribs['color']
+        if 'capture' in attribs:
+            self.capture = attribs['capture']
+
+# Mise à jour des attributs spécifiques
+# person.update_attributes(name="Bob", age=30)
+
+
+def get_page(poke):
+    url = 'https://www.pokepedia.fr/' + poke
+    data = requests.get(url).text
+    return BeautifulSoup(data, 'html.parser')
+
 
 def main() -> None:
     url = "https://www.pokepedia.fr/Liste_des_Pok%C3%A9mon_dans_l%27ordre_du_Pok%C3%A9dex_National"
@@ -64,25 +109,34 @@ def main() -> None:
     list_of_pokemon = []
     for row in table.tbody.find_all('tr'):
         columns = row.find_all('td')
-        types = [type['alt'] for type in columns[-1].find_all('img')]
-        if 'Inconnu' not in types:
-            if columns[2].small != None:
-                form = columns[2].small.text
-            if columns[0].text != "":
-                number = columns[0].text
-                list_of_pokemon.append(
-                    Pokemon(number, form, columns[2].a.text, columns[3].a.text, types))
-            if columns[0].text == "":
-                list_of_pokemon.append(
-                    Pokemon(number, form, columns[2].a.text, columns[3].a.text, types))
-            form = ""
+        soup2 = get_page(columns[2].a.text)
+        # print(soup2)
+        table2 = soup2.find('table', class_='tableaustandard ficheinfo plante')
+        for row2 in table2.tbody.find_all('tr'):
+            # print(row2)
+            column_category = row2.find_all('a')
+            print(column_category.get_text())
+        break
+        # types = [type['alt'] for type in columns[-1].find_all('img')]
+        # if 'Inconnu' not in types:
+        #     if columns[2].small != None:
+        #         form = columns[2].small.text
+        #     if columns[0].text != "":
+        #         number = columns[0].text
+        #         list_of_pokemon.append(
+        #             Pokemon(number, form, columns[2].a.text, columns[3].a.text, types))
+        #     if columns[0].text == "":
+        #         list_of_pokemon.append(
+        #             Pokemon(number, form, columns[2].a.text, columns[3].a.text, types))
+        #     form = ""
 
     # for pokemon in list_of_pokemon:
         # print(pokemon)
         # print(pokemon.form)
 
-    create_csv_with_data(list_of_pokemon)
-    convert_csv_to_excel('data/pokemons.csv', 'data/pokemons.xlsx')
+    # create_csv_with_data(list_of_pokemon)
+    # convert_csv_to_excel('data/pokemons.csv', 'data/pokemons.xlsx')
+
 
 if __name__ == "__main__":
     main()
