@@ -1,0 +1,1389 @@
+number,form,french_name,english_name,types
+0001,,Bulbizarre,Bulbasaur,"Plante,Poison"
+0002,,Herbizarre,Ivysaur,"Plante,Poison"
+0003,,Florizarre,Venusaur,"Plante,Poison"
+0003,Gigantamax,Venusaur,Bisaflor,"Plante,Poison"
+0003,,Mega Venusaur,Mega-Bisaflor,"Plante,Poison"
+0004,,Salamèche,Charmander,Feu
+0005,,Reptincel,Charmeleon,Feu
+0006,,Dracaufeu,Charizard,"Feu,Vol"
+0006,Gigantamax,Charizard,Glurak,"Feu,Vol"
+0006,,Mega Charizard X,Mega-Glurak X,"Feu,Dragon"
+0006,,Mega Charizard Y,Mega-Glurak Y,"Feu,Vol"
+0007,,Carapuce,Squirtle,Eau
+0008,,Carabaffe,Wartortle,Eau
+0009,,Tortank,Blastoise,Eau
+0009,Gigantamax,Blastoise,Turtok,Eau
+0009,,Mega Blastoise,Mega-Turtok,Eau
+0010,,Chenipan,Caterpie,Insecte
+0011,,Chrysacier,Metapod,Insecte
+0012,,Papilusion,Butterfree,"Insecte,Vol"
+0012,Gigantamax,Butterfree,Smettbo,"Insecte,Vol"
+0013,,Aspicot,Weedle,"Insecte,Poison"
+0014,,Coconfort,Kakuna,"Insecte,Poison"
+0015,,Dardargnan,Beedrill,"Insecte,Poison"
+0015,,Mega Beedrill,Mega-Bibor,"Insecte,Poison"
+0016,,Roucool,Pidgey,"Normal,Vol"
+0017,,Roucoups,Pidgeotto,"Normal,Vol"
+0018,,Roucarnage,Pidgeot,"Normal,Vol"
+0018,,Mega Pidgeot,Mega-Tauboss,"Normal,Vol"
+0019,,Rattata,Rattata,Normal
+0019,Alolan Form,Rattata,Rattfratz,"Ténèbres,Normal"
+0020,,Rattatac,Raticate,Normal
+0020,Alolan Form,Raticate,Rattikarl,"Ténèbres,Normal"
+0021,,Piafabec,Spearow,"Normal,Vol"
+0022,,Rapasdepic,Fearow,"Normal,Vol"
+0023,,Abo,Ekans,Poison
+0024,,Arbok,Arbok,Poison
+0025,,Pikachu,Pikachu,Électrik
+0025,Gigantamax,Pikachu,Pikachu,Électrik
+0025,Original Cap,Pikachu,Pikachu,Électrik
+0025,Hoenn Cap,Pikachu,Pikachu,Électrik
+0025,Sinnoh Cap,Pikachu,Pikachu,Électrik
+0025,Unova Cap,Pikachu,Pikachu,Électrik
+0025,Kalos Cap,Pikachu,Pikachu,Électrik
+0025,Alola Cap,Pikachu,Pikachu,Électrik
+0025,Partner Cap,Pikachu,Pikachu,Électrik
+0025,World Cap,Pikachu,Pikachu,Électrik
+0025,Cosplay Pikachu,Pikachu,Pikachu,Électrik
+0025,Pikachu Rock Star,Pikachu,Pikachu,Électrik
+0025,Pikachu Belle,Pikachu,Pikachu,Électrik
+0025,Pikachu Pop Star,Pikachu,Pikachu,Électrik
+0025,"Pikachu, Ph.D.",Pikachu,Pikachu,Électrik
+0025,Pikachu Libre,Pikachu,Pikachu,Électrik
+0025,Partner,Pikachu,Pikachu,Électrik
+0026,,Raichu,Raichu,Électrik
+0026,Alolan Form,Raichu,Raichu,"Électrik,Psy"
+0027,,Sabelette,Sandshrew,Sol
+0027,Alolan Form,Sandshrew,Sandan,"Glace,Acier"
+0028,,Sablaireau,Sandslash,Sol
+0028,Alolan Form,Sandslash,Sandamer,"Glace,Acier"
+0029,,Nidoran♀,Nidoran♀,Poison
+0030,,Nidorina,Nidorina,Poison
+0031,,Nidoqueen,Nidoqueen,"Poison,Sol"
+0032,,Nidoran♂,Nidoran♂,Poison
+0033,,Nidorino,Nidorino,Poison
+0034,,Nidoking,Nidoking,"Poison,Sol"
+0035,,Mélofée,Clefairy,Fée
+0036,,Mélodelfe,Clefable,Fée
+0037,,Goupix,Vulpix,Feu
+0037,Alolan Form,Vulpix,Vulpix,Glace
+0038,,Feunard,Ninetales,Feu
+0038,Alolan Form,Ninetales,Vulnona,"Glace,Fée"
+0039,,Rondoudou,Jigglypuff,"Normal,Fée"
+0040,,Grodoudou,Wigglytuff,"Normal,Fée"
+0041,,Nosferapti,Zubat,"Poison,Vol"
+0042,,Nosferalto,Golbat,"Poison,Vol"
+0043,,Mystherbe,Oddish,"Plante,Poison"
+0044,,Ortide,Gloom,"Plante,Poison"
+0045,,Rafflesia,Vileplume,"Plante,Poison"
+0046,,Paras,Paras,"Insecte,Plante"
+0047,,Parasect,Parasect,"Insecte,Plante"
+0048,,Mimitoss,Venonat,"Insecte,Poison"
+0049,,Aéromite,Venomoth,"Insecte,Poison"
+0050,,Taupiqueur,Diglett,Sol
+0050,Alolan Form,Diglett,Digda,"Sol,Acier"
+0051,,Triopikeur,Dugtrio,Sol
+0051,Alolan Form,Dugtrio,Digdri,"Sol,Acier"
+0052,,Miaouss,Meowth,Normal
+0052,Gigantamax,Meowth,Mauzi,Normal
+0052,Alolan Form,Meowth,Mauzi,Ténèbres
+0052,Galarian Form,Meowth,Mauzi,Acier
+0053,,Persian,Persian,Normal
+0053,Alolan Form,Persian,Snobilikat,Ténèbres
+0054,,Psykokwak,Psyduck,Eau
+0055,,Akwakwak,Golduck,Eau
+0056,,Férosinge,Mankey,Combat
+0057,,Colossinge,Primeape,Combat
+0058,,Caninos,Growlithe,Feu
+0058,Hisuian Form,Growlithe,Fukano,"Feu,Roche"
+0059,,Arcanin,Arcanine,Feu
+0059,Hisuian Form,Arcanine,Arkani,"Feu,Roche"
+0060,,Ptitard,Poliwag,Eau
+0061,,Têtarte,Poliwhirl,Eau
+0062,,Tartard,Poliwrath,"Eau,Combat"
+0063,,Abra,Abra,Psy
+0064,,Kadabra,Kadabra,Psy
+0065,,Alakazam,Alakazam,Psy
+0065,,Mega Alakazam,Mega-Simsala,Psy
+0066,,Machoc,Machop,Combat
+0067,,Machopeur,Machoke,Combat
+0068,,Mackogneur,Machamp,Combat
+0068,Gigantamax,Machamp,Machomei,Combat
+0069,,Chétiflor,Bellsprout,"Plante,Poison"
+0070,,Boustiflor,Weepinbell,"Plante,Poison"
+0071,,Empiflor,Victreebel,"Plante,Poison"
+0072,,Tentacool,Tentacool,"Eau,Poison"
+0073,,Tentacruel,Tentacruel,"Eau,Poison"
+0074,,Racaillou,Geodude,"Roche,Sol"
+0074,Alolan Form,Geodude,Kleinstein,"Roche,Électrik"
+0075,,Gravalanch,Graveler,"Roche,Sol"
+0075,Alolan Form,Graveler,Georok,"Roche,Électrik"
+0076,,Grolem,Golem,"Roche,Sol"
+0076,Alolan Form,Golem,Geowaz,"Roche,Électrik"
+0077,,Ponyta,Ponyta,Feu
+0077,Galarian Form,Ponyta,Ponita,Psy
+0078,,Galopa,Rapidash,Feu
+0078,Galarian Form,Rapidash,Gallopa,"Psy,Fée"
+0079,,Ramoloss,Slowpoke,"Eau,Psy"
+0079,Galarian Form,Slowpoke,Flegmon,Psy
+0080,,Flagadoss,Slowbro,"Eau,Psy"
+0080,,Mega Slowbro,Mega-Lahmus,"Eau,Psy"
+0080,Galarian Form,Slowbro,Lahmus,"Poison,Psy"
+0081,,Magnéti,Magnemite,"Électrik,Acier"
+0082,,Magnéton,Magneton,"Électrik,Acier"
+0083,,Canarticho,Farfetch'd,"Normal,Vol"
+0083,Galarian Form,Farfetch'd,Porenta,Combat
+0084,,Doduo,Doduo,"Normal,Vol"
+0085,,Dodrio,Dodrio,"Normal,Vol"
+0086,,Otaria,Seel,Eau
+0087,,Lamantine,Dewgong,"Eau,Glace"
+0088,,Tadmorv,Grimer,Poison
+0088,Alolan Form,Grimer,Sleima,"Poison,Ténèbres"
+0089,,Grotadmorv,Muk,Poison
+0089,Alolan Form,Muk,Sleimok,"Poison,Ténèbres"
+0090,,Kokiyas,Shellder,Eau
+0091,,Crustabri,Cloyster,"Eau,Glace"
+0092,,Fantominus,Gastly,"Spectre,Poison"
+0093,,Spectrum,Haunter,"Spectre,Poison"
+0094,,Ectoplasma,Gengar,"Spectre,Poison"
+0094,Gigantamax,Gengar,Gengar,"Spectre,Poison"
+0094,,Mega Gengar,Mega-Gengar,"Spectre,Poison"
+0095,,Onix,Onix,"Roche,Sol"
+0096,,Soporifik,Drowzee,Psy
+0097,,Hypnomade,Hypno,Psy
+0098,,Krabby,Krabby,Eau
+0099,,Krabboss,Kingler,Eau
+0099,Gigantamax,Kingler,Kingler,Eau
+0100,,Voltorbe,Voltorb,Électrik
+0100,Hisuian Form,Voltorb,Voltobal,"Électrik,Plante"
+0101,,Électrode,Electrode,Électrik
+0101,Hisuian Form,Electrode,Lektrobal,"Électrik,Plante"
+0102,,Noeunoeuf,Exeggcute,"Plante,Psy"
+0103,,Noadkoko,Exeggutor,"Plante,Psy"
+0103,Alolan Form,Exeggutor,Kokowei,"Plante,Dragon"
+0104,,Osselait,Cubone,Sol
+0105,,Ossatueur,Marowak,Sol
+0105,Alolan Form,Marowak,Knogga,"Feu,Spectre"
+0106,,Kicklee,Hitmonlee,Combat
+0107,,Tygnon,Hitmonchan,Combat
+0108,,Excelangue,Lickitung,Normal
+0109,,Smogo,Koffing,Poison
+0110,,Smogogo,Weezing,Poison
+0110,Galarian Form,Weezing,Smogmog,"Poison,Fée"
+0111,,Rhinocorne,Rhyhorn,"Sol,Roche"
+0112,,Rhinoféros,Rhydon,"Sol,Roche"
+0113,,Leveinard,Chansey,Normal
+0114,,Saquedeneu,Tangela,Plante
+0115,,Kangourex,Kangaskhan,Normal
+0115,,Mega Kangaskhan,Mega-Kangama,Normal
+0116,,Hypotrempe,Horsea,Eau
+0117,,Hypocéan,Seadra,Eau
+0118,,Poissirène,Goldeen,Eau
+0119,,Poissoroy,Seaking,Eau
+0120,,Stari,Staryu,Eau
+0121,,Staross,Starmie,"Eau,Psy"
+0122,,M. Mime,Mr. Mime,"Psy,Fée"
+0122,Galarian Form,Mr. Mime,Pantimos,"Glace,Psy"
+0123,,Insécateur,Scyther,"Insecte,Vol"
+0124,,Lippoutou,Jynx,"Glace,Psy"
+0125,,Élektek,Electabuzz,Électrik
+0126,,Magmar,Magmar,Feu
+0127,,Scarabrute,Pinsir,Insecte
+0127,,Mega Pinsir,Mega-Pinsir,"Insecte,Vol"
+0128,,Tauros,Tauros,Normal
+0128,Paldean FormCombat Breed,Tauros,Tauros,Combat
+0128,Paldean FormBlaze Breed,Tauros,Tauros,"Combat,Feu"
+0128,Paldean FormAqua Breed,Tauros,Tauros,"Combat,Eau"
+0129,,Magicarpe,Magikarp,Eau
+0130,,Léviator,Gyarados,"Eau,Vol"
+0130,,Mega Gyarados,Mega-Garados,"Eau,Ténèbres"
+0131,,Lokhlass,Lapras,"Eau,Glace"
+0131,Gigantamax,Lapras,Lapras,"Eau,Glace"
+0132,,Métamorph,Ditto,Normal
+0133,,Évoli,Eevee,Normal
+0133,Gigantamax,Eevee,Evoli,Normal
+0133,Partner,Eevee,Evoli,Normal
+0134,,Aquali,Vaporeon,Eau
+0135,,Voltali,Jolteon,Électrik
+0136,,Pyroli,Flareon,Feu
+0137,,Porygon,Porygon,Normal
+0138,,Amonita,Omanyte,"Roche,Eau"
+0139,,Amonistar,Omastar,"Roche,Eau"
+0140,,Kabuto,Kabuto,"Roche,Eau"
+0141,,Kabutops,Kabutops,"Roche,Eau"
+0142,,Ptéra,Aerodactyl,"Roche,Vol"
+0142,,Mega Aerodactyl,Mega-Aerodactyl,"Roche,Vol"
+0143,,Ronflex,Snorlax,Normal
+0143,Gigantamax,Snorlax,Relaxo,Normal
+0144,,Artikodin,Articuno,"Glace,Vol"
+0144,Galarian Form,Articuno,Arktos,"Psy,Vol"
+0145,,Électhor,Zapdos,"Électrik,Vol"
+0145,Galarian Form,Zapdos,Zapdos,"Combat,Vol"
+0146,,Sulfura,Moltres,"Feu,Vol"
+0146,Galarian Form,Moltres,Lavados,"Ténèbres,Vol"
+0147,,Minidraco,Dratini,Dragon
+0148,,Draco,Dragonair,Dragon
+0149,,Dracolosse,Dragonite,"Dragon,Vol"
+0150,,Mewtwo,Mewtwo,Psy
+0150,,Mega Mewtwo X,Mega-Mewtu X,"Psy,Combat"
+0150,,Mega Mewtwo Y,Mega-Mewtu Y,Psy
+0151,,Mew,Mew,Psy
+0152,,Germignon,Chikorita,Plante
+0153,,Macronium,Bayleef,Plante
+0154,,Méganium,Meganium,Plante
+0155,,Héricendre,Cyndaquil,Feu
+0156,,Feurisson,Quilava,Feu
+0157,,Typhlosion,Typhlosion,Feu
+0157,Hisuian Form,Typhlosion,Tornupto,"Feu,Spectre"
+0158,,Kaiminus,Totodile,Eau
+0159,,Crocrodil,Croconaw,Eau
+0160,,Aligatueur,Feraligatr,Eau
+0161,,Fouinette,Sentret,Normal
+0162,,Fouinar,Furret,Normal
+0163,,Hoothoot,Hoothoot,"Normal,Vol"
+0164,,Noarfang,Noctowl,"Normal,Vol"
+0165,,Coxy,Ledyba,"Insecte,Vol"
+0166,,Coxyclaque,Ledian,"Insecte,Vol"
+0167,,Mimigal,Spinarak,"Insecte,Poison"
+0168,,Migalos,Ariados,"Insecte,Poison"
+0169,,Nostenfer,Crobat,"Poison,Vol"
+0170,,Loupio,Chinchou,"Eau,Électrik"
+0171,,Lanturn,Lanturn,"Eau,Électrik"
+0172,,Pichu,Pichu,Électrik
+0172,Spiky-eared,Pichu,Pichu,Électrik
+0173,,Mélo,Cleffa,Fée
+0174,,Toudoudou,Igglybuff,"Normal,Fée"
+0175,,Togepi,Togepi,Fée
+0176,,Togetic,Togetic,"Fée,Vol"
+0177,,Natu,Natu,"Psy,Vol"
+0178,,Xatu,Xatu,"Psy,Vol"
+0179,,Wattouat,Mareep,Électrik
+0180,,Lainergie,Flaaffy,Électrik
+0181,,Pharamp,Ampharos,Électrik
+0181,,Mega Ampharos,Mega-Ampharos,"Électrik,Dragon"
+0182,,Joliflor,Bellossom,Plante
+0183,,Marill,Marill,"Eau,Fée"
+0184,,Azumarill,Azumarill,"Eau,Fée"
+0185,,Simularbre,Sudowoodo,Roche
+0186,,Tarpaud,Politoed,Eau
+0187,,Granivol,Hoppip,"Plante,Vol"
+0188,,Floravol,Skiploom,"Plante,Vol"
+0189,,Cotovol,Jumpluff,"Plante,Vol"
+0190,,Capumain,Aipom,Normal
+0191,,Tournegrin,Sunkern,Plante
+0192,,Héliatronc,Sunflora,Plante
+0193,,Yanma,Yanma,"Insecte,Vol"
+0194,,Axoloto,Wooper,"Eau,Sol"
+0194,Paldean Form,Wooper,Felino,"Poison,Sol"
+0195,,Maraiste,Quagsire,"Eau,Sol"
+0196,,Mentali,Espeon,Psy
+0197,,Noctali,Umbreon,Ténèbres
+0198,,Cornèbre,Murkrow,"Ténèbres,Vol"
+0199,,Roigada,Slowking,"Eau,Psy"
+0199,Galarian Form,Slowking,Laschoking,"Poison,Psy"
+0200,,Feuforêve,Misdreavus,Spectre
+0201,A,Zarbi,Unown,Psy
+0201,B,Unown,Icognito,Psy
+0201,C,Unown,Icognito,Psy
+0201,D,Unown,Icognito,Psy
+0201,E,Unown,Icognito,Psy
+0201,F,Unown,Icognito,Psy
+0201,G,Unown,Icognito,Psy
+0201,H,Unown,Icognito,Psy
+0201,I,Unown,Icognito,Psy
+0201,J,Unown,Icognito,Psy
+0201,K,Unown,Icognito,Psy
+0201,L,Unown,Icognito,Psy
+0201,M,Unown,Icognito,Psy
+0201,N,Unown,Icognito,Psy
+0201,O,Unown,Icognito,Psy
+0201,P,Unown,Icognito,Psy
+0201,Q,Unown,Icognito,Psy
+0201,R,Unown,Icognito,Psy
+0201,S,Unown,Icognito,Psy
+0201,T,Unown,Icognito,Psy
+0201,U,Unown,Icognito,Psy
+0201,V,Unown,Icognito,Psy
+0201,W,Unown,Icognito,Psy
+0201,X,Unown,Icognito,Psy
+0201,Y,Unown,Icognito,Psy
+0201,Z,Unown,Icognito,Psy
+0201,?,Unown,Icognito,Psy
+0201,!,Unown,Icognito,Psy
+0202,,Qulbutoké,Wobbuffet,Psy
+0203,,Girafarig,Girafarig,"Normal,Psy"
+0204,,Pomdepik,Pineco,Insecte
+0205,,Foretress,Forretress,"Insecte,Acier"
+0206,,Insolourdo,Dunsparce,Normal
+0207,,Scorplane,Gligar,"Sol,Vol"
+0208,,Steelix,Steelix,"Acier,Sol"
+0208,,Mega Steelix,Mega-Stahlos,"Acier,Sol"
+0209,,Snubbull,Snubbull,Fée
+0210,,Granbull,Granbull,Fée
+0211,,Qwilfish,Qwilfish,"Eau,Poison"
+0211,Hisuian Form,Qwilfish,Baldorfish,"Ténèbres,Poison"
+0212,,Cizayox,Scizor,"Insecte,Acier"
+0212,,Mega Scizor,Mega-Scherox,"Insecte,Acier"
+0213,,Caratroc,Shuckle,"Insecte,Roche"
+0214,,Scarhino,Heracross,"Insecte,Combat"
+0214,,Mega Heracross,Mega-Skaraborn,"Insecte,Combat"
+0215,,Farfuret,Sneasel,"Ténèbres,Glace"
+0215,Hisuian Form,Sneasel,Sniebel,"Combat,Poison"
+0216,,Teddiursa,Teddiursa,Normal
+0217,,Ursaring,Ursaring,Normal
+0218,,Limagma,Slugma,Feu
+0219,,Volcaropod,Magcargo,"Feu,Roche"
+0220,,Marcacrin,Swinub,"Glace,Sol"
+0221,,Cochignon,Piloswine,"Glace,Sol"
+0222,,Corayon,Corsola,"Eau,Roche"
+0222,Galarian Form,Corsola,Corasonn,Spectre
+0223,,Rémoraid,Remoraid,Eau
+0224,,Octillery,Octillery,Eau
+0225,,Cadoizo,Delibird,"Glace,Vol"
+0226,,Démanta,Mantine,"Eau,Vol"
+0227,,Airmure,Skarmory,"Acier,Vol"
+0228,,Malosse,Houndour,"Ténèbres,Feu"
+0229,,Démolosse,Houndoom,"Ténèbres,Feu"
+0229,,Mega Houndoom,Mega-Hundemon,"Ténèbres,Feu"
+0230,,Hyporoi,Kingdra,"Eau,Dragon"
+0231,,Phanpy,Phanpy,Sol
+0232,,Donphan,Donphan,Sol
+0233,,Porygon2,Porygon2,Normal
+0234,,Cerfrousse,Stantler,Normal
+0235,,Queulorior,Smeargle,Normal
+0236,,Debugant,Tyrogue,Combat
+0237,,Kapoera,Hitmontop,Combat
+0238,,Lippouti,Smoochum,"Glace,Psy"
+0239,,Élekid,Elekid,Électrik
+0240,,Magby,Magby,Feu
+0241,,Écrémeuh,Miltank,Normal
+0242,,Leuphorie,Blissey,Normal
+0243,,Raikou,Raikou,Électrik
+0244,,Entei,Entei,Feu
+0245,,Suicune,Suicune,Eau
+0246,,Embrylex,Larvitar,"Roche,Sol"
+0247,,Ymphect,Pupitar,"Roche,Sol"
+0248,,Tyranocif,Tyranitar,"Roche,Ténèbres"
+0248,,Mega Tyranitar,Mega-Despotar,"Roche,Ténèbres"
+0249,,Lugia,Lugia,"Psy,Vol"
+0250,,Ho-Oh,Ho-Oh,"Feu,Vol"
+0251,,Celebi,Celebi,"Psy,Plante"
+0252,,Arcko,Treecko,Plante
+0253,,Massko,Grovyle,Plante
+0254,,Jungko,Sceptile,Plante
+0254,,Mega Sceptile,Mega-Gewaldro,"Plante,Dragon"
+0255,,Poussifeu,Torchic,Feu
+0256,,Galifeu,Combusken,"Feu,Combat"
+0257,,Braségali,Blaziken,"Feu,Combat"
+0257,,Mega Blaziken,Mega-Lohgock,"Feu,Combat"
+0258,,Gobou,Mudkip,Eau
+0259,,Flobio,Marshtomp,"Eau,Sol"
+0260,,Laggron,Swampert,"Eau,Sol"
+0260,,Mega Swampert,Mega-Sumpex,"Eau,Sol"
+0261,,Medhyèna,Poochyena,Ténèbres
+0262,,Grahyèna,Mightyena,Ténèbres
+0263,,Zigzaton,Zigzagoon,Normal
+0263,Galarian Form,Zigzagoon,Zigzachs,"Ténèbres,Normal"
+0264,,Linéon,Linoone,Normal
+0264,Galarian Form,Linoone,Geradaks,"Ténèbres,Normal"
+0265,,Chenipotte,Wurmple,Insecte
+0266,,Armulys,Silcoon,Insecte
+0267,,Charmillon,Beautifly,"Insecte,Vol"
+0268,,Blindalys,Cascoon,Insecte
+0269,,Papinox,Dustox,"Insecte,Poison"
+0270,,Nénupiot,Lotad,"Eau,Plante"
+0271,,Lombre,Lombre,"Eau,Plante"
+0272,,Ludicolo,Ludicolo,"Eau,Plante"
+0273,,Grainipiot,Seedot,Plante
+0274,,Pifeuil,Nuzleaf,"Plante,Ténèbres"
+0275,,Tengalice,Shiftry,"Plante,Ténèbres"
+0276,,Nirondelle,Taillow,"Normal,Vol"
+0277,,Hélédelle,Swellow,"Normal,Vol"
+0278,,Goélise,Wingull,"Eau,Vol"
+0279,,Bekipan,Pelipper,"Eau,Vol"
+0280,,Tarsal,Ralts,"Psy,Fée"
+0281,,Kirlia,Kirlia,"Psy,Fée"
+0282,,Gardevoir,Gardevoir,"Psy,Fée"
+0282,,Mega Gardevoir,Mega-Guardevoir,"Psy,Fée"
+0283,,Arakdo,Surskit,"Insecte,Eau"
+0284,,Maskadra,Masquerain,"Insecte,Vol"
+0285,,Balignon,Shroomish,Plante
+0286,,Chapignon,Breloom,"Plante,Combat"
+0287,,Parecool,Slakoth,Normal
+0288,,Vigoroth,Vigoroth,Normal
+0289,,Monaflèmit,Slaking,Normal
+0290,,Ningale,Nincada,"Insecte,Sol"
+0291,,Ninjask,Ninjask,"Insecte,Vol"
+0292,,Munja,Shedinja,"Insecte,Spectre"
+0293,,Chuchmur,Whismur,Normal
+0294,,Ramboum,Loudred,Normal
+0295,,Brouhabam,Exploud,Normal
+0296,,Makuhita,Makuhita,Combat
+0297,,Hariyama,Hariyama,Combat
+0298,,Azurill,Azurill,"Normal,Fée"
+0299,,Tarinor,Nosepass,Roche
+0300,,Skitty,Skitty,Normal
+0301,,Delcatty,Delcatty,Normal
+0302,,Ténéfix,Sableye,"Ténèbres,Spectre"
+0302,,Mega Sableye,Mega-Zobiris,"Ténèbres,Spectre"
+0303,,Mysdibule,Mawile,"Acier,Fée"
+0303,,Mega Mawile,Mega-Flunkifer,"Acier,Fée"
+0304,,Galekid,Aron,"Acier,Roche"
+0305,,Galegon,Lairon,"Acier,Roche"
+0306,,Galeking,Aggron,"Acier,Roche"
+0306,,Mega Aggron,Mega-Stolloss,Acier
+0307,,Méditikka,Meditite,"Combat,Psy"
+0308,,Charmina,Medicham,"Combat,Psy"
+0308,,Mega Medicham,Mega-Meditalis,"Combat,Psy"
+0309,,Dynavolt,Electrike,Électrik
+0310,,Élecsprint,Manectric,Électrik
+0310,,Mega Manectric,Mega-Voltenso,Électrik
+0311,,Posipi,Plusle,Électrik
+0312,,Négapi,Minun,Électrik
+0313,,Muciole,Volbeat,Insecte
+0314,,Lumivole,Illumise,Insecte
+0315,,Rosélia,Roselia,"Plante,Poison"
+0316,,Gloupti,Gulpin,Poison
+0317,,Avaltout,Swalot,Poison
+0318,,Carvanha,Carvanha,"Eau,Ténèbres"
+0319,,Sharpedo,Sharpedo,"Eau,Ténèbres"
+0319,,Mega Sharpedo,Mega-Tohaido,"Eau,Ténèbres"
+0320,,Wailmer,Wailmer,Eau
+0321,,Wailord,Wailord,Eau
+0322,,Chamallot,Numel,"Feu,Sol"
+0323,,Camérupt,Camerupt,"Feu,Sol"
+0323,,Mega Camerupt,Mega-Camerupt,"Feu,Sol"
+0324,,Chartor,Torkoal,Feu
+0325,,Spoink,Spoink,Psy
+0326,,Groret,Grumpig,Psy
+0327,,Spinda,Spinda,Normal
+0328,,Kraknoix,Trapinch,Sol
+0329,,Vibraninf,Vibrava,"Sol,Dragon"
+0330,,Libégon,Flygon,"Sol,Dragon"
+0331,,Cacnea,Cacnea,Plante
+0332,,Cacturne,Cacturne,"Plante,Ténèbres"
+0333,,Tylton,Swablu,"Normal,Vol"
+0334,,Altaria,Altaria,"Dragon,Vol"
+0334,,Mega Altaria,Mega-Altaria,"Dragon,Fée"
+0335,,Mangriff,Zangoose,Normal
+0336,,Séviper,Seviper,Poison
+0337,,Séléroc,Lunatone,"Roche,Psy"
+0338,,Solaroc,Solrock,"Roche,Psy"
+0339,,Barloche,Barboach,"Eau,Sol"
+0340,,Barbicha,Whiscash,"Eau,Sol"
+0341,,Écrapince,Corphish,Eau
+0342,,Colhomard,Crawdaunt,"Eau,Ténèbres"
+0343,,Balbuto,Baltoy,"Sol,Psy"
+0344,,Kaorine,Claydol,"Sol,Psy"
+0345,,Lilia,Lileep,"Roche,Plante"
+0346,,Vacilys,Cradily,"Roche,Plante"
+0347,,Anorith,Anorith,"Roche,Insecte"
+0348,,Armaldo,Armaldo,"Roche,Insecte"
+0349,,Barpau,Feebas,Eau
+0350,,Milobellus,Milotic,Eau
+0351,,Morphéo,Castform,Normal
+0351,Sunny Form,Castform,Formeo,Feu
+0351,Rainy Form,Castform,Formeo,Eau
+0351,Snowy Form,Castform,Formeo,Glace
+0352,,Kecleon,Kecleon,Normal
+0353,,Polichombr,Shuppet,Spectre
+0354,,Branette,Banette,Spectre
+0354,,Mega Banette,Mega-Banette,Spectre
+0355,,Skelénox,Duskull,Spectre
+0356,,Téraclope,Dusclops,Spectre
+0357,,Tropius,Tropius,"Plante,Vol"
+0358,,Éoko,Chimecho,Psy
+0359,,Absol,Absol,Ténèbres
+0359,,Mega Absol,Mega-Absol,Ténèbres
+0360,,Okéoké,Wynaut,Psy
+0361,,Stalgamin,Snorunt,Glace
+0362,,Oniglali,Glalie,Glace
+0362,,Mega Glalie,Mega-Firnontor,Glace
+0363,,Obalie,Spheal,"Glace,Eau"
+0364,,Phogleur,Sealeo,"Glace,Eau"
+0365,,Kaimorse,Walrein,"Glace,Eau"
+0366,,Coquiperl,Clamperl,Eau
+0367,,Serpang,Huntail,Eau
+0368,,Rosabyss,Gorebyss,Eau
+0369,,Relicanth,Relicanth,"Eau,Roche"
+0370,,Lovdisc,Luvdisc,Eau
+0371,,Draby,Bagon,Dragon
+0372,,Drackhaus,Shelgon,Dragon
+0373,,Drattak,Salamence,"Dragon,Vol"
+0373,,Mega Salamence,Mega-Brutalanda,"Dragon,Vol"
+0374,,Terhal,Beldum,"Acier,Psy"
+0375,,Métang,Metang,"Acier,Psy"
+0376,,Métalosse,Metagross,"Acier,Psy"
+0376,,Mega Metagross,Mega-Metagross,"Acier,Psy"
+0377,,Regirock,Regirock,Roche
+0378,,Regice,Regice,Glace
+0379,,Registeel,Registeel,Acier
+0380,,Latias,Latias,"Dragon,Psy"
+0380,,Mega Latias,Mega-Latias,"Dragon,Psy"
+0381,,Latios,Latios,"Dragon,Psy"
+0381,,Mega Latios,Mega-Latios,"Dragon,Psy"
+0382,,Kyogre,Kyogre,Eau
+0382,,Primal Kyogre,Proto-Kyogre,Eau
+0383,,Groudon,Groudon,Sol
+0383,,Primal Groudon,Proto-Groudon,"Sol,Feu"
+0384,,Rayquaza,Rayquaza,"Dragon,Vol"
+0384,,Mega Rayquaza,Mega-Rayquaza,"Dragon,Vol"
+0385,,Jirachi,Jirachi,"Acier,Psy"
+0386,Forme Normale,Deoxys,Deoxys,Psy
+0386,Attack Forme,Deoxys,Deoxys,Psy
+0386,Defense Forme,Deoxys,Deoxys,Psy
+0386,Speed Forme,Deoxys,Deoxys,Psy
+0387,,Tortipouss,Turtwig,Plante
+0388,,Boskara,Grotle,Plante
+0389,,Torterra,Torterra,"Plante,Sol"
+0390,,Ouisticram,Chimchar,Feu
+0391,,Chimpenfeu,Monferno,"Feu,Combat"
+0392,,Simiabraz,Infernape,"Feu,Combat"
+0393,,Tiplouf,Piplup,Eau
+0394,,Prinplouf,Prinplup,Eau
+0395,,Pingoléon,Empoleon,"Eau,Acier"
+0396,,Étourmi,Starly,"Normal,Vol"
+0397,,Étourvol,Staravia,"Normal,Vol"
+0398,,Étouraptor,Staraptor,"Normal,Vol"
+0399,,Keunotor,Bidoof,Normal
+0400,,Castorno,Bibarel,"Normal,Eau"
+0401,,Crikzik,Kricketot,Insecte
+0402,,Mélokrik,Kricketune,Insecte
+0403,,Lixy,Shinx,Électrik
+0404,,Luxio,Luxio,Électrik
+0405,,Luxray,Luxray,Électrik
+0406,,Rozbouton,Budew,"Plante,Poison"
+0407,,Roserade,Roserade,"Plante,Poison"
+0408,,Kranidos,Cranidos,Roche
+0409,,Charkos,Rampardos,Roche
+0410,,Dinoclier,Shieldon,"Roche,Acier"
+0411,,Bastiodon,Bastiodon,"Roche,Acier"
+0412,Cape Plante,Cheniti,Burmy,Insecte
+0412,Sandy Cloak,Burmy,Burmy,Insecte
+0412,Trash Cloak,Burmy,Burmy,Insecte
+0413,Cape Plante,Cheniselle,Wormadam,"Insecte,Plante"
+0413,Sandy Cloak,Wormadam,Burmadame,"Insecte,Sol"
+0413,Trash Cloak,Wormadam,Burmadame,"Insecte,Acier"
+0414,,Papilord,Mothim,"Insecte,Vol"
+0415,,Apitrini,Combee,"Insecte,Vol"
+0416,,Apireine,Vespiquen,"Insecte,Vol"
+0417,,Pachirisu,Pachirisu,Électrik
+0418,,Mustébouée,Buizel,Eau
+0419,,Mustéflott,Floatzel,Eau
+0420,,Ceribou,Cherubi,Plante
+0421,Temps Couvert,Ceriflor,Cherrim,Plante
+0421,Sunshine Form,Cherrim,Kinoso,Plante
+0422,Mer Occident,Sancoki,Shellos,Eau
+0422,East Sea,Shellos,Schalellos,Eau
+0423,Mer Occident,Tritosor,Gastrodon,"Eau,Sol"
+0423,East Sea,Gastrodon,Gastrodon,"Eau,Sol"
+0424,,Capidextre,Ambipom,Normal
+0425,,Baudrive,Drifloon,"Spectre,Vol"
+0426,,Grodrive,Drifblim,"Spectre,Vol"
+0427,,Laporeille,Buneary,Normal
+0428,,Lockpin,Lopunny,Normal
+0428,,Mega Lopunny,Mega-Schlapor,"Normal,Combat"
+0429,,Magirêve,Mismagius,Spectre
+0430,,Corboss,Honchkrow,"Ténèbres,Vol"
+0431,,Chaglam,Glameow,Normal
+0432,,Chaffreux,Purugly,Normal
+0433,,Korillon,Chingling,Psy
+0434,,Moufouette,Stunky,"Poison,Ténèbres"
+0435,,Moufflair,Skuntank,"Poison,Ténèbres"
+0436,,Archéomire,Bronzor,"Acier,Psy"
+0437,,Archéodong,Bronzong,"Acier,Psy"
+0438,,Manzaï,Bonsly,Roche
+0439,,Mime Jr.,Mime Jr.,"Psy,Fée"
+0440,,Ptiravi,Happiny,Normal
+0441,,Pijako,Chatot,"Normal,Vol"
+0442,,Spiritomb,Spiritomb,"Spectre,Ténèbres"
+0443,,Griknot,Gible,"Dragon,Sol"
+0444,,Carmache,Gabite,"Dragon,Sol"
+0445,,Carchacrok,Garchomp,"Dragon,Sol"
+0445,,Mega Garchomp,Mega-Knakrack,"Dragon,Sol"
+0446,,Goinfrex,Munchlax,Normal
+0447,,Riolu,Riolu,Combat
+0448,,Lucario,Lucario,"Combat,Acier"
+0448,,Mega Lucario,Mega-Lucario,"Combat,Acier"
+0449,,Hippopotas,Hippopotas,Sol
+0450,,Hippodocus,Hippowdon,Sol
+0451,,Rapion,Skorupi,"Poison,Insecte"
+0452,,Drascore,Drapion,"Poison,Ténèbres"
+0453,,Cradopaud,Croagunk,"Poison,Combat"
+0454,,Coatox,Toxicroak,"Poison,Combat"
+0455,,Vortente,Carnivine,Plante
+0456,,Écayon,Finneon,Eau
+0457,,Luminéon,Lumineon,Eau
+0458,,Babimanta,Mantyke,"Eau,Vol"
+0459,,Blizzi,Snover,"Plante,Glace"
+0460,,Blizzaroi,Abomasnow,"Plante,Glace"
+0460,,Mega Abomasnow,Mega-Rexblisar,"Plante,Glace"
+0461,,Dimoret,Weavile,"Ténèbres,Glace"
+0462,,Magnézone,Magnezone,"Électrik,Acier"
+0463,,Coudlangue,Lickilicky,Normal
+0464,,Rhinastoc,Rhyperior,"Sol,Roche"
+0465,,Bouldeneu,Tangrowth,Plante
+0466,,Élekable,Electivire,Électrik
+0467,,Maganon,Magmortar,Feu
+0468,,Togekiss,Togekiss,"Fée,Vol"
+0469,,Yanmega,Yanmega,"Insecte,Vol"
+0470,,Phyllali,Leafeon,Plante
+0471,,Givrali,Glaceon,Glace
+0472,,Scorvol,Gliscor,"Sol,Vol"
+0473,,Mammochon,Mamoswine,"Glace,Sol"
+0474,,Porygon-Z,Porygon-Z,Normal
+0475,,Gallame,Gallade,"Psy,Combat"
+0475,,Mega Gallade,Mega-Galagladi,"Psy,Combat"
+0476,,Tarinorme,Probopass,"Roche,Acier"
+0477,,Noctunoir,Dusknoir,Spectre
+0478,,Momartik,Froslass,"Glace,Spectre"
+0479,,Motisma,Rotom,"Électrik,Spectre"
+0479,Heat Rottom,Rotom,Rotom,"Électrik,Feu"
+0479,Wash Rottom,Rotom,Rotom,"Électrik,Eau"
+0479,Frost Rottom,Rotom,Rotom,"Électrik,Glace"
+0479,Fan Rottom,Rotom,Rotom,"Électrik,Vol"
+0479,Mow Rottom,Rotom,Rotom,"Électrik,Plante"
+0480,,Créhelf,Uxie,Psy
+0481,,Créfollet,Mesprit,Psy
+0482,,Créfadet,Azelf,Psy
+0483,,Dialga,Dialga,"Acier,Dragon"
+0483,Origin Forme,Dialga,Dialga,"Acier,Dragon"
+0484,,Palkia,Palkia,"Eau,Dragon"
+0484,Origin Forme,Palkia,Palkia,"Eau,Dragon"
+0485,,Heatran,Heatran,"Feu,Acier"
+0486,,Regigigas,Regigigas,Normal
+0487,Forme Alternative,Giratina,Giratina,"Spectre,Dragon"
+0487,Origin Forme,Giratina,Giratina,"Spectre,Dragon"
+0488,,Cresselia,Cresselia,Psy
+0489,,Phione,Phione,Eau
+0490,,Manaphy,Manaphy,Eau
+0491,,Darkrai,Darkrai,Ténèbres
+0492,Forme Terrestre,Shaymin,Shaymin,Plante
+0492,Sky Forme,Shaymin,Shaymin,"Plante,Vol"
+0493,,Arceus,Arceus,Normal
+0493,Fighting,Arceus,Arceus,Combat
+0493,Flying,Arceus,Arceus,Vol
+0493,Poison,Arceus,Arceus,Poison
+0493,Ground,Arceus,Arceus,Sol
+0493,Rock,Arceus,Arceus,Roche
+0493,Bug,Arceus,Arceus,Insecte
+0493,Ghost,Arceus,Arceus,Spectre
+0493,Steel,Arceus,Arceus,Acier
+0493,Fire,Arceus,Arceus,Feu
+0493,Water,Arceus,Arceus,Eau
+0493,Grass,Arceus,Arceus,Plante
+0493,Electric,Arceus,Arceus,Électrik
+0493,Psychic,Arceus,Arceus,Psy
+0493,Ice,Arceus,Arceus,Glace
+0493,Dragon,Arceus,Arceus,Dragon
+0493,Dark,Arceus,Arceus,Ténèbres
+0493,Fairy,Arceus,Arceus,Fée
+0494,,Victini,Victini,"Psy,Feu"
+0495,,Vipélierre,Snivy,Plante
+0496,,Lianaja,Servine,Plante
+0497,,Majaspic,Serperior,Plante
+0498,,Gruikui,Tepig,Feu
+0499,,Grotichon,Pignite,"Feu,Combat"
+0500,,Roitiflam,Emboar,"Feu,Combat"
+0501,,Moustillon,Oshawott,Eau
+0502,,Mateloutre,Dewott,Eau
+0503,,Clamiral,Samurott,Eau
+0503,Hisuian Form,Samurott,Admurai,"Eau,Ténèbres"
+0504,,Ratentif,Patrat,Normal
+0505,,Miradar,Watchog,Normal
+0506,,Ponchiot,Lillipup,Normal
+0507,,Ponchien,Herdier,Normal
+0508,,Mastouffe,Stoutland,Normal
+0509,,Chacripan,Purrloin,Ténèbres
+0510,,Léopardus,Liepard,Ténèbres
+0511,,Feuillajou,Pansage,Plante
+0512,,Feuiloutan,Simisage,Plante
+0513,,Flamajou,Pansear,Feu
+0514,,Flamoutan,Simisear,Feu
+0515,,Flotajou,Panpour,Eau
+0516,,Flotoutan,Simipour,Eau
+0517,,Munna,Munna,Psy
+0518,,Mushana,Musharna,Psy
+0519,,Poichigeon,Pidove,"Normal,Vol"
+0520,,Colombeau,Tranquill,"Normal,Vol"
+0521,,Déflaisan,Unfezant,"Normal,Vol"
+0522,,Zébibron,Blitzle,Électrik
+0523,,Zéblitz,Zebstrika,Électrik
+0524,,Nodulithe,Roggenrola,Roche
+0525,,Géolithe,Boldore,Roche
+0526,,Gigalithe,Gigalith,Roche
+0527,,Chovsourir,Woobat,"Psy,Vol"
+0528,,Rhinolove,Swoobat,"Psy,Vol"
+0529,,Rototaupe,Drilbur,Sol
+0530,,Minotaupe,Excadrill,"Sol,Acier"
+0531,,Nanméouïe,Audino,Normal
+0531,,Mega Audino,Mega-Ohrdoch,"Normal,Fée"
+0532,,Charpenti,Timburr,Combat
+0533,,Ouvrifier,Gurdurr,Combat
+0534,,Bétochef,Conkeldurr,Combat
+0535,,Tritonde,Tympole,Eau
+0536,,Batracné,Palpitoad,"Eau,Sol"
+0537,,Crapustule,Seismitoad,"Eau,Sol"
+0538,,Judokrak,Throh,Combat
+0539,,Karaclée,Sawk,Combat
+0540,,Larveyette,Sewaddle,"Insecte,Plante"
+0541,,Couverdure,Swadloon,"Insecte,Plante"
+0542,,Manternel,Leavanny,"Insecte,Plante"
+0543,,Venipatte,Venipede,"Insecte,Poison"
+0544,,Scobolide,Whirlipede,"Insecte,Poison"
+0545,,Brutapode,Scolipede,"Insecte,Poison"
+0546,,Doudouvet,Cottonee,"Plante,Fée"
+0547,,Farfaduvet,Whimsicott,"Plante,Fée"
+0548,,Chlorobule,Petilil,Plante
+0549,,Fragilady,Lilligant,Plante
+0549,Hisuian Form,Lilligant,Dressella,"Plante,Combat"
+0550,Motif Rouge,Bargantua,Basculin,Eau
+0550,Blue-Striped Form,Basculin,Barschuft,Eau
+0550,White-Striped Form,Basculin,Barschuft,Eau
+0551,,Mascaïman,Sandile,"Sol,Ténèbres"
+0552,,Escroco,Krokorok,"Sol,Ténèbres"
+0553,,Crocorible,Krookodile,"Sol,Ténèbres"
+0554,,Darumarond,Darumaka,Feu
+0554,Galarian Form,Darumaka,Flampion,Glace
+0555,Mode Normal,Darumacho,Darmanitan,Feu
+0555,Zen Mode,Darmanitan,Flampivian,"Feu,Psy"
+0555,Galarian FormStandard Mode,Darmanitan,Flampivian,Glace
+0555,Galarian FormZen Mode,Darmanitan,Flampivian,"Glace,Feu"
+0556,,Maracachi,Maractus,Plante
+0557,,Crabicoque,Dwebble,"Insecte,Roche"
+0558,,Crabaraque,Crustle,"Insecte,Roche"
+0559,,Baggiguane,Scraggy,"Ténèbres,Combat"
+0560,,Baggaïd,Scrafty,"Ténèbres,Combat"
+0561,,Cryptéro,Sigilyph,"Psy,Vol"
+0562,,Tutafeh,Yamask,Spectre
+0562,Galarian Form,Yamask,Makabaja,"Sol,Spectre"
+0563,,Tutankafer,Cofagrigus,Spectre
+0564,,Carapagos,Tirtouga,"Eau,Roche"
+0565,,Mégapagos,Carracosta,"Eau,Roche"
+0566,,Arkéapti,Archen,"Roche,Vol"
+0567,,Aéroptéryx,Archeops,"Roche,Vol"
+0568,,Miamiasme,Trubbish,Poison
+0569,,Miasmax,Garbodor,Poison
+0569,Gigantamax,Garbodor,Deponitox,Poison
+0570,,Zorua,Zorua,Ténèbres
+0570,Hisuian Form,Zorua,Zorua,"Normal,Spectre"
+0571,,Zoroark,Zoroark,Ténèbres
+0571,Hisuian Form,Zoroark,Zoroark,"Normal,Spectre"
+0572,,Chinchidou,Minccino,Normal
+0573,,Pashmilla,Cinccino,Normal
+0574,,Scrutella,Gothita,Psy
+0575,,Mesmérella,Gothorita,Psy
+0576,,Sidérella,Gothitelle,Psy
+0577,,Nucléos,Solosis,Psy
+0578,,Méios,Duosion,Psy
+0579,,Symbios,Reuniclus,Psy
+0580,,Couaneton,Ducklett,"Eau,Vol"
+0581,,Lakmécygne,Swanna,"Eau,Vol"
+0582,,Sorbébé,Vanillite,Glace
+0583,,Sorboul,Vanillish,Glace
+0584,,Sorbouboul,Vanilluxe,Glace
+0585,Forme Printemps,Vivaldaim,Deerling,"Normal,Plante"
+0585,Summer Form,Deerling,Sesokitz,"Normal,Plante"
+0585,Autumn Form,Deerling,Sesokitz,"Normal,Plante"
+0585,Winter Form,Deerling,Sesokitz,"Normal,Plante"
+0586,Forme Printemps,Haydaim,Sawsbuck,"Normal,Plante"
+0586,Summer Form,Sawsbuck,Kronjuwild,"Normal,Plante"
+0586,Autumn Form,Sawsbuck,Kronjuwild,"Normal,Plante"
+0586,Winter Form,Sawsbuck,Kronjuwild,"Normal,Plante"
+0587,,Emolga,Emolga,"Électrik,Vol"
+0588,,Carabing,Karrablast,Insecte
+0589,,Lançargot,Escavalier,"Insecte,Acier"
+0590,,Trompignon,Foongus,"Plante,Poison"
+0591,,Gaulet,Amoonguss,"Plante,Poison"
+0592,,Viskuse,Frillish,"Eau,Spectre"
+0593,,Moyade,Jellicent,"Eau,Spectre"
+0594,,Mamanbo,Alomomola,Eau
+0595,,Statitik,Joltik,"Insecte,Électrik"
+0596,,Mygavolt,Galvantula,"Insecte,Électrik"
+0597,,Grindur,Ferroseed,"Plante,Acier"
+0598,,Noacier,Ferrothorn,"Plante,Acier"
+0599,,Tic,Klink,Acier
+0600,,Clic,Klang,Acier
+0601,,Cliticlic,Klinklang,Acier
+0602,,Anchwatt,Tynamo,Électrik
+0603,,Lampéroie,Eelektrik,Électrik
+0604,,Ohmassacre,Eelektross,Électrik
+0605,,Lewsor,Elgyem,Psy
+0606,,Neitram,Beheeyem,Psy
+0607,,Funécire,Litwick,"Spectre,Feu"
+0608,,Mélancolux,Lampent,"Spectre,Feu"
+0609,,Lugulabre,Chandelure,"Spectre,Feu"
+0610,,Coupenotte,Axew,Dragon
+0611,,Incisache,Fraxure,Dragon
+0612,,Tranchodon,Haxorus,Dragon
+0613,,Polarhume,Cubchoo,Glace
+0614,,Polagriffe,Beartic,Glace
+0615,,Hexagel,Cryogonal,Glace
+0616,,Escargaume,Shelmet,Insecte
+0617,,Limaspeed,Accelgor,Insecte
+0618,,Limonde,Stunfisk,"Sol,Électrik"
+0618,Galarian Form,Stunfisk,Flunschlik,"Sol,Acier"
+0619,,Kungfouine,Mienfoo,Combat
+0620,,Shaofouine,Mienshao,Combat
+0621,,Drakkarmin,Druddigon,Dragon
+0622,,Gringolem,Golett,"Sol,Spectre"
+0623,,Golemastoc,Golurk,"Sol,Spectre"
+0624,,Scalpion,Pawniard,"Ténèbres,Acier"
+0625,,Scalproie,Bisharp,"Ténèbres,Acier"
+0626,,Frison,Bouffalant,Normal
+0627,,Furaiglon,Rufflet,"Normal,Vol"
+0628,,Gueriaigle,Braviary,"Normal,Vol"
+0628,Hisuian Form,Braviary,Washakwil,"Psy,Vol"
+0629,,Vostourno,Vullaby,"Ténèbres,Vol"
+0630,,Vaututrice,Mandibuzz,"Ténèbres,Vol"
+0631,,Aflamanoir,Heatmor,Feu
+0632,,Fermite,Durant,"Insecte,Acier"
+0633,,Solochi,Deino,"Ténèbres,Dragon"
+0634,,Diamat,Zweilous,"Ténèbres,Dragon"
+0635,,Trioxhydre,Hydreigon,"Ténèbres,Dragon"
+0636,,Pyronille,Larvesta,"Insecte,Feu"
+0637,,Pyrax,Volcarona,"Insecte,Feu"
+0638,,Cobaltium,Cobalion,"Acier,Combat"
+0639,,Terrakium,Terrakion,"Roche,Combat"
+0640,,Viridium,Virizion,"Plante,Combat"
+0641,Forme Avatar,Boréas,Tornadus,Vol
+0641,Therian Forme,Tornadus,Boreos,Vol
+0642,Forme Avatar,Fulguris,Thundurus,"Électrik,Vol"
+0642,Therian Forme,Thundurus,Voltolos,"Électrik,Vol"
+0643,,Reshiram,Reshiram,"Dragon,Feu"
+0644,,Zekrom,Zekrom,"Dragon,Électrik"
+0645,Forme Avatar,Démétéros,Landorus,"Sol,Vol"
+0645,Therian Forme,Landorus,Demeteros,"Sol,Vol"
+0646,,Kyurem,Kyurem,"Dragon,Glace"
+0646,White Kyurem,Kyurem,Kyurem,"Dragon,Glace"
+0646,Black Kyurem,Kyurem,Kyurem,"Dragon,Glace"
+0647,Aspect Normal,Keldeo,Keldeo,"Eau,Combat"
+0647,Resolute Form,Keldeo,Keldeo,"Eau,Combat"
+0648,Forme Chant,Meloetta,Meloetta,"Normal,Psy"
+0648,Pirouette Forme,Meloetta,Meloetta,"Normal,Combat"
+0649,,Genesect,Genesect,"Insecte,Acier"
+0649,Douse Drive,Genesect,Genesect,"Insecte,Acier"
+0649,Shock Drive,Genesect,Genesect,"Insecte,Acier"
+0649,Burn Drive,Genesect,Genesect,"Insecte,Acier"
+0649,Chill Drive,Genesect,Genesect,"Insecte,Acier"
+0650,,Marisson,Chespin,Plante
+0651,,Boguérisse,Quilladin,Plante
+0652,,Blindépique,Chesnaught,"Plante,Combat"
+0653,,Feunnec,Fennekin,Feu
+0654,,Roussil,Braixen,Feu
+0655,,Goupelin,Delphox,"Feu,Psy"
+0656,,Grenousse,Froakie,Eau
+0657,,Croâporal,Frogadier,Eau
+0658,,Amphinobi,Greninja,"Eau,Ténèbres"
+0658,Ash-Greninja,Greninja,Quajutsu,"Eau,Ténèbres"
+0659,,Sapereau,Bunnelby,Normal
+0660,,Excavarenne,Diggersby,"Normal,Sol"
+0661,,Passerouge,Fletchling,"Normal,Vol"
+0662,,Braisillon,Fletchinder,"Feu,Vol"
+0663,,Flambusard,Talonflame,"Feu,Vol"
+0664,,Lépidonille,Scatterbug,Insecte
+0665,,Pérégrain,Spewpa,Insecte
+0666,Motif Blizzard,Prismillon,Vivillon,"Insecte,Vol"
+0666,Polar Pattern,Vivillon,Vivillon,"Insecte,Vol"
+0666,Tundra Pattern,Vivillon,Vivillon,"Insecte,Vol"
+0666,Continental Pattern,Vivillon,Vivillon,"Insecte,Vol"
+0666,Garden Pattern,Vivillon,Vivillon,"Insecte,Vol"
+0666,Elegant Pattern,Vivillon,Vivillon,"Insecte,Vol"
+0666,Meadow Pattern,Vivillon,Vivillon,"Insecte,Vol"
+0666,Modern Pattern,Vivillon,Vivillon,"Insecte,Vol"
+0666,Marine Pattern,Vivillon,Vivillon,"Insecte,Vol"
+0666,Archipelago Pattern,Vivillon,Vivillon,"Insecte,Vol"
+0666,High Plains Pattern,Vivillon,Vivillon,"Insecte,Vol"
+0666,Sandstorm Pattern,Vivillon,Vivillon,"Insecte,Vol"
+0666,River Pattern,Vivillon,Vivillon,"Insecte,Vol"
+0666,Monsoon Pattern,Vivillon,Vivillon,"Insecte,Vol"
+0666,Savanna Pattern,Vivillon,Vivillon,"Insecte,Vol"
+0666,Sun Pattern,Vivillon,Vivillon,"Insecte,Vol"
+0666,Ocean Pattern,Vivillon,Vivillon,"Insecte,Vol"
+0666,Jungle Pattern,Vivillon,Vivillon,"Insecte,Vol"
+0666,Fancy Pattern,Vivillon,Vivillon,"Insecte,Vol"
+0666,Poké Ball Pattern,Vivillon,Vivillon,"Insecte,Vol"
+0667,,Hélionceau,Litleo,"Feu,Normal"
+0668,,Némélios,Pyroar,"Feu,Normal"
+0669,Fleur Rouge,Flabébé,Flabébé,Fée
+0669,Yellow Flower,Flabébé,Flabébé,Fée
+0669,Orange Flower,Flabébé,Flabébé,Fée
+0669,Blue Flower,Flabébé,Flabébé,Fée
+0669,White Flower,Flabébé,Flabébé,Fée
+0670,Fleur Rouge,Floette,Floette,Fée
+0670,Yellow Flower,Floette,Floette,Fée
+0670,Orange Flower,Floette,Floette,Fée
+0670,Blue Flower,Floette,Floette,Fée
+0670,White Flower,Floette,Floette,Fée
+0671,Fleur Rouge,Florges,Florges,Fée
+0671,Yellow Flower,Florges,Florges,Fée
+0671,Orange Flower,Florges,Florges,Fée
+0671,Blue Flower,Florges,Florges,Fée
+0671,White Flower,Florges,Florges,Fée
+0672,,Cabriolaine,Skiddo,Plante
+0673,,Chevroum,Gogoat,Plante
+0674,,Pandespiègle,Pancham,Combat
+0675,,Pandarbare,Pangoro,"Combat,Ténèbres"
+0676,Forme Sauvage,Couafarel,Furfrou,Normal
+0676,Heart Trim,Furfrou,Coiffwaff,Normal
+0676,Star Trim,Furfrou,Coiffwaff,Normal
+0676,Diamond Trim,Furfrou,Coiffwaff,Normal
+0676,Debutante Trim,Furfrou,Coiffwaff,Normal
+0676,Matron Trim,Furfrou,Coiffwaff,Normal
+0676,Dandy Trim,Furfrou,Coiffwaff,Normal
+0676,La Reine Trim,Furfrou,Coiffwaff,Normal
+0676,Kabuki Trim,Furfrou,Coiffwaff,Normal
+0676,Pharaoh Trim,Furfrou,Coiffwaff,Normal
+0677,,Psystigri,Espurr,Psy
+0678,Mâle,Mistigrix,Meowstic,Psy
+0678,Female,Meowstic,Psiaugon,Psy
+0679,,Monorpale,Honedge,"Acier,Spectre"
+0680,,Dimoclès,Doublade,"Acier,Spectre"
+0681,Forme Parade,Exagide,Aegislash,"Acier,Spectre"
+0681,Blade Forme,Aegislash,Durengard,"Acier,Spectre"
+0682,,Fluvetin,Spritzee,Fée
+0683,,Cocotine,Aromatisse,Fée
+0684,,Sucroquin,Swirlix,Fée
+0685,,Cupcanaille,Slurpuff,Fée
+0686,,Sepiatop,Inkay,"Ténèbres,Psy"
+0687,,Sepiatroce,Malamar,"Ténèbres,Psy"
+0688,,Opermine,Binacle,"Roche,Eau"
+0689,,Golgopathe,Barbaracle,"Roche,Eau"
+0690,,Venalgue,Skrelp,"Poison,Eau"
+0691,,Kravarech,Dragalge,"Poison,Dragon"
+0692,,Flingouste,Clauncher,Eau
+0693,,Gamblast,Clawitzer,Eau
+0694,,Galvaran,Helioptile,"Électrik,Normal"
+0695,,Iguolta,Heliolisk,"Électrik,Normal"
+0696,,Ptyranidur,Tyrunt,"Roche,Dragon"
+0697,,Rexillius,Tyrantrum,"Roche,Dragon"
+0698,,Amagara,Amaura,"Roche,Glace"
+0699,,Dragmara,Aurorus,"Roche,Glace"
+0700,,Nymphali,Sylveon,Fée
+0701,,Brutalibré,Hawlucha,"Combat,Vol"
+0702,,Dedenne,Dedenne,"Électrik,Fée"
+0703,,Strassie,Carbink,"Roche,Fée"
+0704,,Mucuscule,Goomy,Dragon
+0705,,Colimucus,Sliggoo,Dragon
+0705,Hisuian Form,Sliggoo,Viscargot,"Dragon,Acier"
+0706,,Muplodocus,Goodra,Dragon
+0706,Hisuian Form,Goodra,Viscogon,"Dragon,Acier"
+0707,,Trousselin,Klefki,"Acier,Fée"
+0708,,Brocélôme,Phantump,"Spectre,Plante"
+0709,,Desséliande,Trevenant,"Spectre,Plante"
+0710,Taille Mini,Pitrouille,Pumpkaboo,"Spectre,Plante"
+0710,Average Size,Pumpkaboo,Irrbis,"Spectre,Plante"
+0710,Large Size,Pumpkaboo,Irrbis,"Spectre,Plante"
+0710,Super Size,Pumpkaboo,Irrbis,"Spectre,Plante"
+0711,Taille Mini,Banshitrouye,Gourgeist,"Spectre,Plante"
+0711,Average Size,Gourgeist,Pumpdjinn,"Spectre,Plante"
+0711,Large Size,Gourgeist,Pumpdjinn,"Spectre,Plante"
+0711,Super Size,Gourgeist,Pumpdjinn,"Spectre,Plante"
+0712,,Grelaçon,Bergmite,Glace
+0713,,Séracrawl,Avalugg,Glace
+0713,Hisuian Form,Avalugg,Arktilas,"Glace,Roche"
+0714,,Sonistrelle,Noibat,"Vol,Dragon"
+0715,,Bruyverne,Noivern,"Vol,Dragon"
+0716,Mode Paisible,Xerneas,Xerneas,Fée
+0716,Active Mode,Xerneas,Xerneas,Fée
+0717,,Yveltal,Yveltal,"Ténèbres,Vol"
+0718,Forme 50 %,Zygarde,Zygarde,"Dragon,Sol"
+0718,10% Forme,Zygarde,Zygarde,"Dragon,Sol"
+0718,Complete Forme,Zygarde,Zygarde,"Dragon,Sol"
+0719,,Diancie,Diancie,"Roche,Fée"
+0719,,Mega Diancie,Mega-Diancie,"Roche,Fée"
+0720,Hoopa Enchaîné,Hoopa,Hoopa,"Psy,Spectre"
+0720,Hoopa Unbound,Hoopa,Hoopa,"Psy,Ténèbres"
+0721,,Volcanion,Volcanion,"Feu,Eau"
+0722,,Brindibou,Rowlet,"Plante,Vol"
+0723,,Efflèche,Dartrix,"Plante,Vol"
+0724,,Archéduc,Decidueye,"Plante,Spectre"
+0724,Hisuian Form,Decidueye,Silvarro,"Plante,Combat"
+0725,,Flamiaou,Litten,Feu
+0726,,Matoufeu,Torracat,Feu
+0727,,Félinferno,Incineroar,"Feu,Ténèbres"
+0728,,Otaquin,Popplio,Eau
+0729,,Otarlette,Brionne,Eau
+0730,,Oratoria,Primarina,"Eau,Fée"
+0731,,Picassaut,Pikipek,"Normal,Vol"
+0732,,Piclairon,Trumbeak,"Normal,Vol"
+0733,,Bazoucan,Toucannon,"Normal,Vol"
+0734,,Manglouton,Yungoos,Normal
+0735,,Argouste,Gumshoos,Normal
+0736,,Larvibule,Grubbin,Insecte
+0737,,Chrysapile,Charjabug,"Insecte,Électrik"
+0738,,Lucanon,Vikavolt,"Insecte,Électrik"
+0739,,Crabagarre,Crabrawler,Combat
+0740,,Crabominable,Crabominable,"Combat,Glace"
+0741,Style Flamenco,Plumeline,Oricorio,"Feu,Vol"
+0741,Pom-Pom Style,Oricorio,Choreogel,"Électrik,Vol"
+0741,Pa'u Style,Oricorio,Choreogel,"Psy,Vol"
+0741,Sensu Style,Oricorio,Choreogel,"Spectre,Vol"
+0742,,Bombydou,Cutiefly,"Insecte,Fée"
+0743,,Rubombelle,Ribombee,"Insecte,Fée"
+0744,,Rocabot,Rockruff,Roche
+0745,Forme Diurne,Lougaroc,Lycanroc,Roche
+0745,Midnight Form,Lycanroc,Wolwerock,Roche
+0745,Dusk Form,Lycanroc,Wolwerock,Roche
+0746,Forme Solitaire,Froussardine,Wishiwashi,Eau
+0746,School Form,Wishiwashi,Lusardin,Eau
+0747,,Vorastérie,Mareanie,"Poison,Eau"
+0748,,Prédastérie,Toxapex,"Poison,Eau"
+0749,,Tiboudet,Mudbray,Sol
+0750,,Bourrinos,Mudsdale,Sol
+0751,,Araqua,Dewpider,"Eau,Insecte"
+0752,,Tarenbulle,Araquanid,"Eau,Insecte"
+0753,,Mimantis,Fomantis,Plante
+0754,,Floramantis,Lurantis,Plante
+0755,,Spododo,Morelull,"Plante,Fée"
+0756,,Lampignon,Shiinotic,"Plante,Fée"
+0757,,Tritox,Salandit,"Poison,Feu"
+0758,,Malamandre,Salazzle,"Poison,Feu"
+0759,,Nounourson,Stufful,"Normal,Combat"
+0760,,Chelours,Bewear,"Normal,Combat"
+0761,,Croquine,Bounsweet,Plante
+0762,,Candine,Steenee,Plante
+0763,,Sucreine,Tsareena,Plante
+0764,,Guérilande,Comfey,Fée
+0765,,Gouroutan,Oranguru,"Normal,Psy"
+0766,,Quartermac,Passimian,Combat
+0767,,Sovkipou,Wimpod,"Insecte,Eau"
+0768,,Sarmuraï,Golisopod,"Insecte,Eau"
+0769,,Bacabouh,Sandygast,"Spectre,Sol"
+0770,,Trépassable,Palossand,"Spectre,Sol"
+0771,,Concombaffe,Pyukumuku,Eau
+0772,,Type:0,Type: Null,Normal
+0773,Type : Normal,Silvallié,Silvally,Normal
+0773,Type: Fighting,Silvally,Amigento,Combat
+0773,Type: Flying,Silvally,Amigento,Vol
+0773,Type: Poison,Silvally,Amigento,Poison
+0773,Type: Ground,Silvally,Amigento,Sol
+0773,Type: Rock,Silvally,Amigento,Roche
+0773,Type: Bug,Silvally,Amigento,Insecte
+0773,Type: Ghost,Silvally,Amigento,Spectre
+0773,Type: Steel,Silvally,Amigento,Acier
+0773,Type: Fire,Silvally,Amigento,Feu
+0773,Type: Water,Silvally,Amigento,Eau
+0773,Type: Grass,Silvally,Amigento,Plante
+0773,Type: Electric,Silvally,Amigento,Électrik
+0773,Type: Psychic,Silvally,Amigento,Psy
+0773,Type: Ice,Silvally,Amigento,Glace
+0773,Type: Dragon,Silvally,Amigento,Dragon
+0773,Type: Dark,Silvally,Amigento,Ténèbres
+0773,Type: Fairy,Silvally,Amigento,Fée
+0774,Forme Météore,Météno,Minior,"Roche,Vol"
+0774,Red Core,Minior,Meteno,"Roche,Vol"
+0774,Orange Core,Minior,Meteno,"Roche,Vol"
+0774,Yellow Core,Minior,Meteno,"Roche,Vol"
+0774,Green Core,Minior,Meteno,"Roche,Vol"
+0774,Blue Core,Minior,Meteno,"Roche,Vol"
+0774,Indigo Core,Minior,Meteno,"Roche,Vol"
+0774,Violet Core,Minior,Meteno,"Roche,Vol"
+0775,,Dodoala,Komala,Normal
+0776,,Boumata,Turtonator,"Feu,Dragon"
+0777,,Togedemaru,Togedemaru,"Électrik,Acier"
+0778,Forme Déguisée,Mimiqui,Mimikyu,"Spectre,Fée"
+0778,Busted Form,Mimikyu,Mimigma,"Spectre,Fée"
+0779,,Denticrisse,Bruxish,"Eau,Psy"
+0780,,Draïeul,Drampa,"Normal,Dragon"
+0781,,Sinistrail,Dhelmise,"Spectre,Plante"
+0782,,Bébécaille,Jangmo-o,Dragon
+0783,,Écaïd,Hakamo-o,"Dragon,Combat"
+0784,,Ékaïser,Kommo-o,"Dragon,Combat"
+0785,,Tokorico,Tapu Koko,"Électrik,Fée"
+0786,,Tokopiyon,Tapu Lele,"Psy,Fée"
+0787,,Tokotoro,Tapu Bulu,"Plante,Fée"
+0788,,Tokopisco,Tapu Fini,"Eau,Fée"
+0789,,Cosmog,Cosmog,Psy
+0790,,Cosmovum,Cosmoem,Psy
+0791,,Solgaleo,Solgaleo,"Psy,Acier"
+0792,,Lunala,Lunala,"Psy,Spectre"
+0793,,Zéroïd,Nihilego,"Roche,Poison"
+0794,,Mouscoto,Buzzwole,"Insecte,Combat"
+0795,,Cancrelove,Pheromosa,"Insecte,Combat"
+0796,,Câblifère,Xurkitree,Électrik
+0797,,Bamboiselle,Celesteela,"Acier,Vol"
+0798,,Katagami,Kartana,"Plante,Acier"
+0799,,Engloutyran,Guzzlord,"Ténèbres,Dragon"
+0800,,Necrozma,Necrozma,Psy
+0800,Dusk Mane,Necrozma,Necrozma,"Psy,Acier"
+0800,Dawn Wings,Necrozma,Necrozma,"Psy,Spectre"
+0800,,Ultra Necrozma,Ultra-Necrozma,"Psy,Dragon"
+0801,,Magearna,Magearna,"Acier,Fée"
+0801,Original Color,Magearna,Magearna,"Acier,Fée"
+0802,,Marshadow,Marshadow,"Combat,Spectre"
+0803,,Vémini,Poipole,Poison
+0804,,Mandrillon,Naganadel,"Poison,Dragon"
+0805,,Ama-Ama,Stakataka,"Roche,Acier"
+0806,,Pierroteknik,Blacephalon,"Feu,Spectre"
+0807,,Zeraora,Zeraora,Électrik
+0808,,Meltan,Meltan,Acier
+0809,,Melmetal,Melmetal,Acier
+0809,Gigantamax,Melmetal,Melmetal,Acier
+0810,,Ouistempo,Grookey,Plante
+0811,,Badabouin,Thwackey,Plante
+0812,,Gorythmic,Rillaboom,Plante
+0812,Gigantamax,Rillaboom,Gortrom,Plante
+0813,,Flambino,Scorbunny,Feu
+0814,,Lapyro,Raboot,Feu
+0815,,Pyrobut,Cinderace,Feu
+0815,Gigantamax,Cinderace,Liberlo,Feu
+0816,,Larméléon,Sobble,Eau
+0817,,Arrozard,Drizzile,Eau
+0818,,Lézargus,Inteleon,Eau
+0818,Gigantamax,Inteleon,Intelleon,Eau
+0819,,Rongourmand,Skwovet,Normal
+0820,,Rongrigou,Greedent,Normal
+0821,,Minisange,Rookidee,Vol
+0822,,Bleuseille,Corvisquire,Vol
+0823,,Corvaillus,Corviknight,"Vol,Acier"
+0823,Gigantamax,Corviknight,Krarmor,"Vol,Acier"
+0824,,Larvadar,Blipbug,Insecte
+0825,,Coléodôme,Dottler,"Insecte,Psy"
+0826,,Astronelle,Orbeetle,"Insecte,Psy"
+0826,Gigantamax,Orbeetle,Maritellit,"Insecte,Psy"
+0827,,Goupilou,Nickit,Ténèbres
+0828,,Roublenard,Thievul,Ténèbres
+0829,,Tournicoton,Gossifleur,Plante
+0830,,Blancoton,Eldegoss,Plante
+0831,,Moumouton,Wooloo,Normal
+0832,,Moumouflon,Dubwool,Normal
+0833,,Khélocrok,Chewtle,Eau
+0834,,Torgamord,Drednaw,"Eau,Roche"
+0834,Gigantamax,Drednaw,Kamalm,"Eau,Roche"
+0835,,Voltoutou,Yamper,Électrik
+0836,,Fulgudog,Boltund,Électrik
+0837,,Charbi,Rolycoly,Roche
+0838,,Wagomine,Carkol,"Roche,Feu"
+0839,,Monthracite,Coalossal,"Roche,Feu"
+0839,Gigantamax,Coalossal,Montecarbo,"Roche,Feu"
+0840,,Verpom,Applin,"Plante,Dragon"
+0841,,Pomdrapi,Flapple,"Plante,Dragon"
+0841,Gigantamax,Flapple,Drapfel,"Plante,Dragon"
+0842,,Dratatin,Appletun,"Plante,Dragon"
+0842,Gigantamax,Appletun,Schlapfel,"Plante,Dragon"
+0843,,Dunaja,Silicobra,Sol
+0844,,Dunaconda,Sandaconda,Sol
+0844,Gigantamax,Sandaconda,Sanaconda,Sol
+0845,,Nigosier,Cramorant,"Vol,Eau"
+0845,Gulping Form,Cramorant,Urgl,"Vol,Eau"
+0845,Gorging Form,Cramorant,Urgl,"Vol,Eau"
+0846,,Embrochet,Arrokuda,Eau
+0847,,Hastacuda,Barraskewda,Eau
+0848,,Toxizap,Toxel,"Électrik,Poison"
+0849,Forme Aigüe,Salarsen,Toxtricity,"Électrik,Poison"
+0849,Low Key Form,Toxtricity,Riffex,"Électrik,Poison"
+0849,Gigantamax,Toxtricity,Riffex,"Électrik,Poison"
+0850,,Grillepattes,Sizzlipede,"Feu,Insecte"
+0851,,Scolocendre,Centiskorch,"Feu,Insecte"
+0851,Gigantamax,Centiskorch,Infernopod,"Feu,Insecte"
+0852,,Poulpaf,Clobbopus,Combat
+0853,,Krakos,Grapploct,Combat
+0854,Forme Contrefaçon,Théffroi,Sinistea,Spectre
+0854,Antique Form,Sinistea,Fatalitee,Spectre
+0855,Forme Contrefaçon,Polthégeist,Polteageist,Spectre
+0855,Antique Form,Polteageist,Mortipot,Spectre
+0856,,Bibichut,Hatenna,Psy
+0857,,Chapotus,Hattrem,Psy
+0858,,Sorcilence,Hatterene,"Psy,Fée"
+0858,Gigantamax,Hatterene,Silembrim,"Psy,Fée"
+0859,,Grimalin,Impidimp,"Ténèbres,Fée"
+0860,,Fourbelin,Morgrem,"Ténèbres,Fée"
+0861,,Angoliath,Grimmsnarl,"Ténèbres,Fée"
+0861,Gigantamax,Grimmsnarl,Olangaar,"Ténèbres,Fée"
+0862,,Ixon,Obstagoon,"Ténèbres,Normal"
+0863,,Berserkatt,Perrserker,Acier
+0864,,Corayôme,Cursola,Spectre
+0865,,Palarticho,Sirfetch'd,Combat
+0866,,M. Glaquette,Mr. Rime,"Glace,Psy"
+0867,,Tutétékri,Runerigus,"Sol,Spectre"
+0868,,Crèmy,Milcery,Fée
+0869,Lait Vanille,Charmilly,Alcremie,Fée
+0869,Ruby Cream,Alcremie,Pokusan,Fée
+0869,Matcha Cream,Alcremie,Pokusan,Fée
+0869,Mint Cream,Alcremie,Pokusan,Fée
+0869,Lemon Cream,Alcremie,Pokusan,Fée
+0869,Salted Cream,Alcremie,Pokusan,Fée
+0869,Ruby Swirl,Alcremie,Pokusan,Fée
+0869,Caramel Swirl,Alcremie,Pokusan,Fée
+0869,Rainbow Swirl,Alcremie,Pokusan,Fée
+0869,Gigantamax,Alcremie,Pokusan,Fée
+0870,,Hexadron,Falinks,Combat
+0871,,Wattapik,Pincurchin,Électrik
+0872,,Frissonille,Snom,"Glace,Insecte"
+0873,,Beldeneige,Frosmoth,"Glace,Insecte"
+0874,,Dolman,Stonjourner,Roche
+0875,Tête de Gel,Bekaglaçon,Eiscue,Glace
+0875,Noice Face,Eiscue,Kubuin,Glace
+0876,Mâle,Wimessir,Indeedee,"Psy,Normal"
+0876,Female,Indeedee,Servol,"Psy,Normal"
+0877,Mode Rassasié,Morpeko,Morpeko,"Électrik,Ténèbres"
+0877,Hangry Mode,Morpeko,Morpeko,"Électrik,Ténèbres"
+0878,,Charibari,Cufant,Acier
+0879,,Pachyradjah,Copperajah,Acier
+0879,Gigantamax,Copperajah,Patinaraja,Acier
+0880,,Galvagon,Dracozolt,"Électrik,Dragon"
+0881,,Galvagla,Arctozolt,"Électrik,Glace"
+0882,,Hydragon,Dracovish,"Eau,Dragon"
+0883,,Hydragla,Arctovish,"Eau,Glace"
+0884,,Duralugon,Duraludon,"Acier,Dragon"
+0884,Gigantamax,Duraludon,Duraludon,"Acier,Dragon"
+0885,,Fantyrm,Dreepy,"Dragon,Spectre"
+0886,,Dispareptil,Drakloak,"Dragon,Spectre"
+0887,,Lanssorien,Dragapult,"Dragon,Spectre"
+0888,Héros Aguerri,Zacian,Zacian,Fée
+0888,Crowned Sword,Zacian,Zacian,"Fée,Acier"
+0889,Héros Aguerri,Zamazenta,Zamazenta,Combat
+0889,Crowned Shield,Zamazenta,Zamazenta,"Combat,Acier"
+0890,,Éthernatos,Eternatus,"Poison,Dragon"
+0890,Eternamax,Eternatus,Endynalos,"Poison,Dragon"
+0891,,Wushours,Kubfu,Combat
+0892,Style Poing Final,Shifours,Urshifu,"Combat,Ténèbres"
+0892,GigantamaxSingle Strike Style,Urshifu,Wulaosu,"Combat,Ténèbres"
+0892,Rapid Strike Style,Urshifu,Wulaosu,"Combat,Eau"
+0892,GigantamaxRapid Strike Style,Urshifu,Wulaosu,"Combat,Eau"
+0893,,Zarude,Zarude,"Ténèbres,Plante"
+0893,Dada,Zarude,Zarude,"Ténèbres,Plante"
+0894,,Regieleki,Regieleki,Électrik
+0895,,Regidrago,Regidrago,Dragon
+0896,,Blizzeval,Glastrier,Glace
+0897,,Spectreval,Spectrier,Spectre
+0898,,Sylveroy,Calyrex,"Psy,Plante"
+0898,Ice Rider,Calyrex,Coronospa,"Psy,Glace"
+0898,Shadow Rider,Calyrex,Coronospa,"Psy,Spectre"
+0899,,Cerbyllin,Wyrdeer,"Normal,Psy"
+0900,,Hachécateur,Kleavor,"Insecte,Roche"
+0901,,Ursaking,Ursaluna,"Sol,Normal"
+0902,Mâle,Paragruel,Basculegion,"Eau,Spectre"
+0902,Female,Basculegion,Salmagnis,"Eau,Spectre"
+0903,,Farfurex,Sneasler,"Combat,Poison"
+0904,,Qwilpik,Overqwil,"Ténèbres,Poison"
+0905,Forme Avatar,Amovénus,Enamorus,"Fée,Vol"
+0905,Therian Forme,Enamorus,Cupidos,"Fée,Vol"
+0906,,Poussacha,Sprigatito,Plante
+0907,,Matourgeon,Floragato,Plante
+0908,,Miascarade,Meowscarada,"Plante,Ténèbres"
+0909,,Chochodile,Fuecoco,Feu
+0910,,Crocogril,Crocalor,Feu
+0911,,Flâmigator,Skeledirge,"Feu,Spectre"
+0912,,Coiffeton,Quaxly,Eau
+0913,,Canarbello,Quaxwell,Eau
+0914,,Palmaval,Quaquaval,"Eau,Combat"
+0915,,Gourmelet,Lechonk,Normal
+0916,Mâle,Fragroin,Oinkologne,Normal
+0916,Female,Oinkologne,Fragrunz,Normal
+0917,,Tissenboule,Tarountula,Insecte
+0918,,Filentrappe,Spidops,Insecte
+0919,,Lilliterelle,Nymble,Insecte
+0920,,Gambex,Lokix,"Insecte,Ténèbres"
+0921,,Pohm,Pawmi,Électrik
+0922,,Pohmotte,Pawmo,"Électrik,Combat"
+0923,,Pohmarmotte,Pawmot,"Électrik,Combat"
+0924,,Compagnol,Tandemaus,Normal
+0925,Famille de Trois,Famignol,Maushold,Normal
+0925,Family of Four,Maushold,Famieps,Normal
+0926,,Pâtachiot,Fidough,Fée
+0927,,Briochien,Dachsbun,Fée
+0928,,Olivini,Smoliv,"Plante,Normal"
+0929,,Olivado,Dolliv,"Plante,Normal"
+0930,,Arboliva,Arboliva,"Plante,Normal"
+0931,Plumage Vert,Tapatoès,Squawkabilly,"Normal,Vol"
+0931,Blue Plumage,Squawkabilly,Krawalloro,"Normal,Vol"
+0931,Yellow Plumage,Squawkabilly,Krawalloro,"Normal,Vol"
+0931,White Plumage,Squawkabilly,Krawalloro,"Normal,Vol"
+0932,,Selutin,Nacli,Roche
+0933,,Amassel,Naclstack,Roche
+0934,,Gigansel,Garganacl,Roche
+0935,,Charbambin,Charcadet,Feu
+0936,,Carmadura,Armarouge,"Feu,Psy"
+0937,,Malvalame,Ceruledge,"Feu,Spectre"
+0938,,Têtampoule,Tadbulb,Électrik
+0939,,Ampibidou,Bellibolt,Électrik
+0940,,Zapétrel,Wattrel,"Électrik,Vol"
+0941,,Fulgulairo,Kilowattrel,"Électrik,Vol"
+0942,,Grondogue,Maschiff,Ténèbres
+0943,,Dogrino,Mabosstiff,Ténèbres
+0944,,Gribouraigne,Shroodle,"Poison,Normal"
+0945,,Tag-Tag,Grafaiai,"Poison,Normal"
+0946,,Virovent,Bramblin,"Plante,Spectre"
+0947,,Virevorreur,Brambleghast,"Plante,Spectre"
+0948,,Terracool,Toedscool,"Sol,Plante"
+0949,,Terracruel,Toedscruel,"Sol,Plante"
+0950,,Craparoi,Klawf,Roche
+0951,,Pimito,Capsakid,Plante
+0952,,Scovilain,Scovillain,"Plante,Feu"
+0953,,Léboulérou,Rellor,Insecte
+0954,,Bérasca,Rabsca,"Insecte,Psy"
+0955,,Flotillon,Flittle,Psy
+0956,,Cléopsytra,Espathra,Psy
+0957,,Forgerette,Tinkatink,"Fée,Acier"
+0958,,Forgella,Tinkatuff,"Fée,Acier"
+0959,,Forgelina,Tinkaton,"Fée,Acier"
+0960,,Taupikeau,Wiglett,Eau
+0961,,Triopikeau,Wugtrio,Eau
+0962,,Lestombaile,Bombirdier,"Vol,Ténèbres"
+0963,,Dofin,Finizen,Eau
+0964,Forme Ordinaire,Superdofin,Palafin,Eau
+0964,Hero Form,Palafin,Delfinator,Eau
+0965,,Vrombi,Varoom,"Acier,Poison"
+0966,,Vrombotor,Revavroom,"Acier,Poison"
+0967,,Motorizard,Cyclizar,"Dragon,Normal"
+0968,,Ferdeter,Orthworm,Acier
+0969,,Germéclat,Glimmet,"Roche,Poison"
+0970,,Floréclat,Glimmora,"Roche,Poison"
+0971,,Toutombe,Greavard,Spectre
+0972,,Tomberro,Houndstone,Spectre
+0973,,Flamenroule,Flamigo,"Vol,Combat"
+0974,,Piétacé,Cetoddle,Glace
+0975,,Balbalèze,Cetitan,Glace
+0976,,Délestin,Veluza,"Eau,Psy"
+0977,,Oyacata,Dondozo,Eau
+0978,Forme Courbée,Nigirigon,Tatsugiri,"Dragon,Eau"
+0978,Droopy Form,Tatsugiri,Nigiragi,"Dragon,Eau"
+0978,Stretchy Form,Tatsugiri,Nigiragi,"Dragon,Eau"
+0979,,Courrousinge,Annihilape,"Combat,Spectre"
+0980,,Terraiste,Clodsire,"Poison,Sol"
+0981,,Farigiraf,Farigiraf,"Normal,Psy"
+0982,Forme Double,Deusolourdo,Dudunsparce,Normal
+0982,Three-Segment Form,Dudunsparce,Dummimisel,Normal
+0983,,Scalpereur,Kingambit,"Ténèbres,Acier"
+0984,,Fort-Ivoire,Great Tusk,"Sol,Combat"
+0985,,Hurle-Queue,Scream Tail,"Fée,Psy"
+0986,,Fongus-Furie,Brute Bonnet,"Plante,Ténèbres"
+0987,,Flotte-Mèche,Flutter Mane,"Spectre,Fée"
+0988,,Rampe-Ailes,Slither Wing,"Insecte,Combat"
+0989,,Pelage-Sablé,Sandy Shocks,"Électrik,Sol"
+0990,,Roue-de-Fer,Iron Treads,"Sol,Acier"
+0991,,Hotte-de-Fer,Iron Bundle,"Glace,Eau"
+0992,,Paume-de-Fer,Iron Hands,"Combat,Électrik"
+0993,,Têtes-de-Fer,Iron Jugulis,"Ténèbres,Vol"
+0994,,Mite-de-Fer,Iron Moth,"Feu,Poison"
+0995,,Épine-de-Fer,Iron Thorns,"Roche,Électrik"
+0996,,Frigodo,Frigibax,"Dragon,Glace"
+0997,,Cryodo,Arctibax,"Dragon,Glace"
+0998,,Glaivodo,Baxcalibur,"Dragon,Glace"
+0999,Forme Coffre,Mordudor,Gimmighoul,Spectre
+0999,Roaming Form,Gimmighoul,Gierspenst,Spectre
+1000,,Gromago,Gholdengo,"Acier,Spectre"
+1001,,Chongjian,Wo-Chien,"Ténèbres,Plante"
+1002,,Baojian,Chien-Pao,"Ténèbres,Glace"
+1003,,Dinglu,Ting-Lu,"Ténèbres,Sol"
+1004,,Yuyu,Chi-Yu,"Ténèbres,Feu"
+1005,,Rugit-Lune,Roaring Moon,"Dragon,Ténèbres"
+1006,,Garde-de-Fer,Iron Valiant,"Fée,Combat"
+1007,Forme Finale,Koraidon,Koraidon,"Combat,Dragon"
+1007,Sprinting Build,Koraidon,Koraidon,"Combat,Dragon"
+1007,Swimming Build,Koraidon,Koraidon,"Combat,Dragon"
+1007,Gliding Build,Koraidon,Koraidon,"Combat,Dragon"
+1008,Mode Ultime,Miraidon,Miraidon,"Électrik,Dragon"
+1008,Drive Mode,Miraidon,Miraidon,"Électrik,Dragon"
+1008,Aquatic Mode,Miraidon,Miraidon,"Électrik,Dragon"
+1008,Glide Mode,Miraidon,Miraidon,"Électrik,Dragon"
+1009,,Serpente-Eau,Walking Wake,"Eau,Dragon"
+1010,,Vert-de-Fer,Iron Leaves,"Plante,Psy"
+—,,Ogerpon,Ogerpon,Inconnu
+—,,Félicanis,Okidogi,Inconnu
+—,,Fortusimia,Munkidori,Inconnu
+—,,Favianos,Fezandipiti,Inconnu
+—,,Terapagos,Terapagos,Inconnu
