@@ -10,7 +10,6 @@ import requests
 from bs4 import BeautifulSoup
 from functools import reduce
 from operator import concat
-from typing import Any
 
 NB_POKEMON_MAX = "0493"
 
@@ -43,9 +42,6 @@ class Pokemon:
 
     def __str__(self) -> str:
         return f"Numéro du Pokémon: {str(self.number)}, Nom Français: {self.french_name}, Nom Anglais: {self.english_name}, Type(s): {self.types}, Catégorie: {self.category}, Taille: {self.size}, Poids: {self.weight}, Talent(s): {self.talents}, Éclosion: {self.hatching}, EVs: {self.ev}, Expérience: {self.exp}, Expérience au Niv.100: {self.exp_100}, Genres: {self.gender}, Couleur: {self.color}, Taux de Capture: {self.capture}, PV: {self.pv}, Attaque: {self.atk}, Défense: {self.dfs}, Attaque Spéciale: {self.atk_sp}, Défense Spéciale: {self.dfs_sp}, Vitesse: {self.vit}, Total - Stat: {self.total}"
-
-    def __getattribute__(self, __name: str) -> Any:
-        return super().__getattribute__(__name)
 
     def add_attribute(self, **attribs):
         if 'category' in attribs:
