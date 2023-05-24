@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.11.3)  23 MAY 2023 00:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.11.3)  24 MAY 2023 03:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -239,28 +239,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
 [1
 
-] [2] (./Rapport INGLANG - Mohand_Oukhemanou-Vincent_Vilfeu.aux) ) 
+] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+
+ []
+
+[3]
+Overfull \hbox (47.9658pt too wide) in paragraph at lines 81--82
+\T1/cmr/m/n/10 grâce à la bi-blio-thèque Pan-das et plus par-ti-cu-liè-re-ment 
+aux fonc-tions read_csv() et pd.dataframe.to_excel(). 
+ []
+
+[4] (./Rapport INGLANG - Mohand_Oukhemanou-Vincent_Vilfeu.aux) ) 
 Here is how much of TeX's memory you used:
  5097 strings out of 480218
  86544 string characters out of 5894882
- 391925 words of memory out of 5000000
+ 394925 words of memory out of 5000000
  23038 multiletter control sequences out of 15000+600000
  478841 words of font info for 46 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  55i,6n,63p,481b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/nano/
-.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000.600pk> </home/nano/
-.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/nano/
-.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/nano/
-.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/nano/
-.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk> </home/nano/
-.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/nano/
-.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk>
-Output written on "Rapport INGLANG - Mohand_Oukhemanou-Vincent_Vilfeu.pdf" (3 p
-ages, 64729 bytes).
+ </home/nano/.t
+exlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000.600pk> </home/nano/.t
+exlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/nano/.t
+exlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/nano/.t
+exlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/nano/.t
+exlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk> </home/nano/.t
+exlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/nano/.t
+exlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk>
+Output written on "Rapport INGLANG - Mohand_Oukhemanou-Vincent_Vilfeu.pdf" (5 p
+ages, 72578 bytes).
 PDF statistics:
- 233 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 250 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

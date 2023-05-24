@@ -90,17 +90,19 @@ def get_page(url, poke):
     return BeautifulSoup(data, 'html.parser')
 
 
-def get_infos(table, types, list_of_pokemon):
+def get_infos(list_of_pokemon):
+    soup = get_page("https://www.pokepedia.fr/Liste_des_Pok%C3%A9mon_dans_l%27ordre_du_Pok%C3%A9dex_National", "")
+    table = soup.find('table', class_='tableaustandard sortable entetefixe')
+    types = []
     for row in table.tbody.find_all('tr'):
         columns = row.find_all('td')
         types = [type['alt'] for type in columns[-1].find_all('img')]
-        if 'Inconnu' not in types:
-            if columns[0].text != "":
-                number = columns[0].text
-                list_of_pokemon.append(
-                    Pokemon(number, columns[2].a.text, columns[3].a.text, types))
-            if columns[0].text == "":
-                continue
+        if columns[0].text != "":
+            number = columns[0].text
+            list_of_pokemon.append(
+                Pokemon(number, columns[2].a.text, columns[3].a.text, types))
+        if columns[0].text == "":
+            continue
         if number == NB_POKEMON_MAX:
             break
 
@@ -133,22 +135,7 @@ def get_detail(list_of_pokemon):
         else:
             infos.append(temp[-17:])
         infos = reduce(concat, infos)
-        if pokemon.number == "0483":
-            infos[1].pop(1)
-            infos[2].pop(1)
-            del infos[-5:]
-        if pokemon.number == "0487":
-            infos[1].pop(1)
-            infos[2].pop(1)
-            infos[3].pop(1)
-            del infos[-5:]
-        if pokemon.number == "0492":
-            infos[1].pop(1)
-            infos[2].pop(1)
-            infos[3].pop(1)
-            del infos[-6:]
-        else:
-            del infos[-5:]
+        del infos[-5:]
         infos.pop(4)
         infos[3][0] = re.sub("1. ", "", infos[3][0])
         infos[3][0] = re.sub("2.", ",", infos[3][0])
@@ -217,16 +204,9 @@ def convert_csv_to_excel(path_csv_file, path_excel_file):
 
 
 def main() -> None:
-    url = "https://www.pokepedia.fr/Liste_des_Pok%C3%A9mon_dans_l%27ordre_du_Pok%C3%A9dex_National"
-    soup = BeautifulSoup()
-    data = requests.get(url).text
-    soup = BeautifulSoup(data, 'html.parser')
-
-    types = []
-    table = soup.find('table', class_='tableaustandard sortable entetefixe')
     list_of_pokemon = []
 
-    get_infos(table, types, list_of_pokemon)
+    get_infos(list_of_pokemon)
 
     get_detail(list_of_pokemon)
 
