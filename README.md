@@ -1,8 +1,11 @@
 # Ingénierie des Langues
 # Projet Scraping - Pokédex
 
-## Binôme
 Projet de Scraping - Pokédex fait en binôme par OUKHEMANOU Mohand & VILFEU Vincent (L3-Y). 
+Notre projet est en rapport avec la thématique : Créer un Corpus.
+Elle consiste en la création d'un outil de scraping pour pouvoir extraire des données textuelles sur un site, en suivant un thème (ici les pokémons).
+
+## Binôme
 Le choix de le faire en binôme s'est fait de par le grand nombre de pages à scraper (partant du principe qu'il y aurait plus de difficulté), il était donc plus efficace de diviser le travail. 
 Aussi, avec le nombre de projet important à réaliser (chacun risquant de prendre du temps), il était plus intéressant (notamment niveau gain de temps) de le faire à deux.
 
@@ -14,6 +17,6 @@ Quant au rapport, il s'agissait d'un travail commun afin d'expliquer au mieux no
 Nous avons travaillé via Git et nous communiquions via Discord. 
 
 ## Utilisation
-Pour lancer le code (qui prendra un peu de temps à s'exécuter, ayant 493 pages à scraper), il faut utiliser la ligne de commande suivante : 
+Pour lancer le code (qui prendra du temps à s'exécuter (environ 5 minutes), ayant 493 pages à scraper), il faut utiliser la ligne de commande suivante : 
     python3 web_scraping.py
 Le code va alors se charger de scraper toutes nos pages et de sauvegarder les informations à la fois dans un fichier csv et dans un tableur (fichier xlsx). 
